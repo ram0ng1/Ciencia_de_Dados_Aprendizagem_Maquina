@@ -1,0 +1,254 @@
+{
+  "autor": "Ramon Guilherme Marques do Nascimento",
+  "acuracia_treino": 0.8133333333333334,
+  "acuracia_teste": 0.78,
+  "acuracia_referencia": 0.5933333333333334,
+  "matriz_confusao": [
+    [
+      75,
+      14
+    ],
+    [
+      19,
+      42
+    ]
+  ],
+  "sensibilidade_classe1": 0.6885245901639344,
+  "precisao_classe1": 0.75,
+  "f1_classe1": 0.717948717948718,
+  "profundidade": 5,
+  "min_samples_leaf": 10,
+  "validacao_escolhida": 0.7222222222222223,
+  "desvio_validacao_escolhida": 0.03912625969257558,
+  "grade_folhas": [
+    {
+      "min_samples_leaf": 5,
+      "profundidade": "2",
+      "treino_cv": 0.7328,
+      "validacao_cv": 0.6844,
+      "desvio": 0.0425,
+      "distancia": 0.0483
+    },
+    {
+      "min_samples_leaf": 5,
+      "profundidade": "3",
+      "treino_cv": 0.7706,
+      "validacao_cv": 0.7,
+      "desvio": 0.0233,
+      "distancia": 0.0706
+    },
+    {
+      "min_samples_leaf": 5,
+      "profundidade": "5",
+      "treino_cv": 0.8261,
+      "validacao_cv": 0.7222,
+      "desvio": 0.0298,
+      "distancia": 0.1039
+    },
+    {
+      "min_samples_leaf": 5,
+      "profundidade": "None",
+      "treino_cv": 0.8678,
+      "validacao_cv": 0.7133,
+      "desvio": 0.0215,
+      "distancia": 0.1544
+    },
+    {
+      "min_samples_leaf": 10,
+      "profundidade": "2",
+      "treino_cv": 0.7328,
+      "validacao_cv": 0.6844,
+      "desvio": 0.0425,
+      "distancia": 0.0483
+    },
+    {
+      "min_samples_leaf": 10,
+      "profundidade": "3",
+      "treino_cv": 0.7678,
+      "validacao_cv": 0.7022,
+      "desvio": 0.0257,
+      "distancia": 0.0656
+    },
+    {
+      "min_samples_leaf": 10,
+      "profundidade": "5",
+      "treino_cv": 0.8111,
+      "validacao_cv": 0.7222,
+      "desvio": 0.0391,
+      "distancia": 0.0889
+    },
+    {
+      "min_samples_leaf": 10,
+      "profundidade": "None",
+      "treino_cv": 0.8206,
+      "validacao_cv": 0.7111,
+      "desvio": 0.0477,
+      "distancia": 0.1094
+    },
+    {
+      "min_samples_leaf": 20,
+      "profundidade": "2",
+      "treino_cv": 0.7328,
+      "validacao_cv": 0.6844,
+      "desvio": 0.0425,
+      "distancia": 0.0483
+    },
+    {
+      "min_samples_leaf": 20,
+      "profundidade": "3",
+      "treino_cv": 0.7656,
+      "validacao_cv": 0.6978,
+      "desvio": 0.0325,
+      "distancia": 0.0678
+    },
+    {
+      "min_samples_leaf": 20,
+      "profundidade": "5",
+      "treino_cv": 0.79,
+      "validacao_cv": 0.7267,
+      "desvio": 0.048,
+      "distancia": 0.0633
+    },
+    {
+      "min_samples_leaf": 20,
+      "profundidade": "None",
+      "treino_cv": 0.79,
+      "validacao_cv": 0.7267,
+      "desvio": 0.048,
+      "distancia": 0.0633
+    },
+    {
+      "min_samples_leaf": 40,
+      "profundidade": "2",
+      "treino_cv": 0.7328,
+      "validacao_cv": 0.6844,
+      "desvio": 0.0425,
+      "distancia": 0.0483
+    },
+    {
+      "min_samples_leaf": 40,
+      "profundidade": "3",
+      "treino_cv": 0.7661,
+      "validacao_cv": 0.7111,
+      "desvio": 0.0351,
+      "distancia": 0.055
+    },
+    {
+      "min_samples_leaf": 40,
+      "profundidade": "5",
+      "treino_cv": 0.7756,
+      "validacao_cv": 0.7289,
+      "desvio": 0.0303,
+      "distancia": 0.0467
+    },
+    {
+      "min_samples_leaf": 40,
+      "profundidade": "None",
+      "treino_cv": 0.7756,
+      "validacao_cv": 0.7289,
+      "desvio": 0.0303,
+      "distancia": 0.0467
+    }
+  ],
+  "remocao_atributos": [
+    {
+      "atributo_retirado": "(nenhum)",
+      "validacao_cv": 0.7222,
+      "desvio": 0.0391,
+      "queda_vs_completo": 0.0
+    },
+    {
+      "atributo_retirado": "frequencia_sem4",
+      "validacao_cv": 0.7156,
+      "desvio": 0.0362,
+      "queda_vs_completo": 0.0067
+    },
+    {
+      "atributo_retirado": "nota_sem4",
+      "validacao_cv": 0.6289,
+      "desvio": 0.0475,
+      "queda_vs_completo": 0.0933
+    },
+    {
+      "atributo_retirado": "entregas_sem4",
+      "validacao_cv": 0.7022,
+      "desvio": 0.031,
+      "queda_vs_completo": 0.02
+    }
+  ],
+  "experimento_limiar": [
+    {
+      "class_weight": "None",
+      "limiar": 0.3,
+      "acuracia": 0.6889,
+      "precisao_1": 0.5896,
+      "sensibilidade_1": 0.8,
+      "f1_1": 0.6789,
+      "sinalizados": 251
+    },
+    {
+      "class_weight": "None",
+      "limiar": 0.4,
+      "acuracia": 0.7156,
+      "precisao_1": 0.6338,
+      "sensibilidade_1": 0.7297,
+      "f1_1": 0.6784,
+      "sinalizados": 213
+    },
+    {
+      "class_weight": "None",
+      "limiar": 0.5,
+      "acuracia": 0.7222,
+      "precisao_1": 0.6579,
+      "sensibilidade_1": 0.6757,
+      "f1_1": 0.6667,
+      "sinalizados": 190
+    },
+    {
+      "class_weight": "balanced",
+      "limiar": 0.3,
+      "acuracia": 0.6822,
+      "precisao_1": 0.5761,
+      "sensibilidade_1": 0.8595,
+      "f1_1": 0.6898,
+      "sinalizados": 276
+    },
+    {
+      "class_weight": "balanced",
+      "limiar": 0.4,
+      "acuracia": 0.6978,
+      "precisao_1": 0.6052,
+      "sensibilidade_1": 0.7622,
+      "f1_1": 0.6746,
+      "sinalizados": 233
+    },
+    {
+      "class_weight": "balanced",
+      "limiar": 0.5,
+      "acuracia": 0.7244,
+      "precisao_1": 0.6517,
+      "sensibilidade_1": 0.7081,
+      "f1_1": 0.6788,
+      "sinalizados": 201
+    }
+  ],
+  "mae": 28.592371891051492,
+  "r2": 0.8774401457921505,
+  "mae_referencia": 84.73054077484917,
+  "coeficientes_regressao": [
+    0.3479872609773974,
+    2.2970263692551334
+  ],
+  "intercepto": 37.317264148313654,
+  "residuos": {
+    "media": -1.2835126390243266,
+    "desvio": 35.47256145989073,
+    "min": -87.2383385807131,
+    "max": 64.59405201855753
+  },
+  "python": "3.13.18",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.5",
+  "numpy": "2.5.3",
+  "matplotlib": "3.11.2"
+}

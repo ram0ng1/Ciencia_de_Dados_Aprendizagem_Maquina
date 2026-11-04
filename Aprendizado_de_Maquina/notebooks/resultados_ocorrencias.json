@@ -1,0 +1,386 @@
+{
+  "autor": "Ramon Guilherme Marques do Nascimento",
+  "semente": 42,
+  "n_total": 960,
+  "n_treino": 720,
+  "n_teste": 240,
+  "ruido": {
+    "nenhum": 815,
+    "rotulo_trocado": 92,
+    "generico": 49,
+    "generico+trocado": 4
+  },
+  "validacao_cruzada": [
+    {
+      "candidato": "caracteres + LogReg (C=1)",
+      "acc_treino": 0.8694,
+      "acc_validacao": 0.8458,
+      "desvio": 0.0172,
+      "f1_macro_validacao": 0.8457
+    },
+    {
+      "candidato": "caracteres + LinearSVC (C=0.3)",
+      "acc_treino": 0.8715,
+      "acc_validacao": 0.8458,
+      "desvio": 0.0119,
+      "f1_macro_validacao": 0.8452
+    },
+    {
+      "candidato": "palavras + MultinomialNB (alpha=0.5)",
+      "acc_treino": 0.8722,
+      "acc_validacao": 0.8444,
+      "desvio": 0.0143,
+      "f1_macro_validacao": 0.8447
+    },
+    {
+      "candidato": "palavras + LogReg (C=1)",
+      "acc_treino": 0.8722,
+      "acc_validacao": 0.8444,
+      "desvio": 0.0121,
+      "f1_macro_validacao": 0.8447
+    },
+    {
+      "candidato": "palavras + MultinomialNB (alpha=0.1)",
+      "acc_treino": 0.8736,
+      "acc_validacao": 0.8403,
+      "desvio": 0.0139,
+      "f1_macro_validacao": 0.8408
+    },
+    {
+      "candidato": "caracteres + LinearSVC (C=1)",
+      "acc_treino": 0.8806,
+      "acc_validacao": 0.8389,
+      "desvio": 0.0092,
+      "f1_macro_validacao": 0.8385
+    },
+    {
+      "candidato": "palavras + LogReg (C=10)",
+      "acc_treino": 0.9208,
+      "acc_validacao": 0.8264,
+      "desvio": 0.0076,
+      "f1_macro_validacao": 0.8267
+    },
+    {
+      "candidato": "caracteres + LogReg (C=10)",
+      "acc_treino": 0.8962,
+      "acc_validacao": 0.8264,
+      "desvio": 0.0088,
+      "f1_macro_validacao": 0.8261
+    },
+    {
+      "candidato": "referência (categoria mais frequente)",
+      "acc_treino": 0.1295,
+      "acc_validacao": 0.125,
+      "desvio": 0.0,
+      "f1_macro_validacao": 0.0278
+    }
+  ],
+  "escolhido": "caracteres + LogReg (C=1)",
+  "acuracia_teste": 0.8625,
+  "f1_macro_teste": 0.863410651385137,
+  "acuracia_referencia": 0.12916666666666668,
+  "relatorio_por_categoria": {
+    "Animais": {
+      "precision": 0.8966,
+      "recall": 0.8966,
+      "f1-score": 0.8966,
+      "support": 29.0
+    },
+    "Barulho": {
+      "precision": 0.931,
+      "recall": 0.871,
+      "f1-score": 0.9,
+      "support": 31.0
+    },
+    "Garagem e vagas": {
+      "precision": 0.9259,
+      "recall": 0.8621,
+      "f1-score": 0.8929,
+      "support": 29.0
+    },
+    "Lixo e limpeza": {
+      "precision": 0.7931,
+      "recall": 0.7419,
+      "f1-score": 0.7667,
+      "support": 31.0
+    },
+    "Manutenção e elevador": {
+      "precision": 0.8387,
+      "recall": 0.8387,
+      "f1-score": 0.8387,
+      "support": 31.0
+    },
+    "Segurança e portaria": {
+      "precision": 0.871,
+      "recall": 0.931,
+      "f1-score": 0.9,
+      "support": 29.0
+    },
+    "Vazamento e infiltração": {
+      "precision": 0.871,
+      "recall": 0.931,
+      "f1-score": 0.9,
+      "support": 29.0
+    },
+    "Áreas comuns": {
+      "precision": 0.7879,
+      "recall": 0.8387,
+      "f1-score": 0.8125,
+      "support": 31.0
+    },
+    "macro avg": {
+      "precision": 0.8644,
+      "recall": 0.8639,
+      "f1-score": 0.8634,
+      "support": 240.0
+    },
+    "weighted avg": {
+      "precision": 0.8635,
+      "recall": 0.8625,
+      "f1-score": 0.8623,
+      "support": 240.0
+    }
+  },
+  "matriz_confusao": {
+    "ordem": [
+      "Barulho",
+      "Vazamento e infiltração",
+      "Garagem e vagas",
+      "Áreas comuns",
+      "Segurança e portaria",
+      "Animais",
+      "Lixo e limpeza",
+      "Manutenção e elevador"
+    ],
+    "valores": [
+      [
+        27,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        27,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        25,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        26,
+        1,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        27,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        26,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        4,
+        0,
+        1,
+        23,
+        2
+      ],
+      [
+        1,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        26
+      ]
+    ]
+  },
+  "acuracia_por_ruido_teste": {
+    "generico": 0.3077,
+    "generico+trocado": 1.0,
+    "nenhum": 0.9854,
+    "rotulo_trocado": 0.0
+  },
+  "limiar_treino_cv": [
+    {
+      "limiar": 0.0,
+      "cobertura": 1.0,
+      "n_sugeridas": 720,
+      "acuracia_nas_sugeridas": 0.8458
+    },
+    {
+      "limiar": 0.3,
+      "cobertura": 0.9069,
+      "n_sugeridas": 653,
+      "acuracia_nas_sugeridas": 0.8897
+    },
+    {
+      "limiar": 0.4,
+      "cobertura": 0.7958,
+      "n_sugeridas": 573,
+      "acuracia_nas_sugeridas": 0.9005
+    },
+    {
+      "limiar": 0.5,
+      "cobertura": 0.6069,
+      "n_sugeridas": 437,
+      "acuracia_nas_sugeridas": 0.8993
+    },
+    {
+      "limiar": 0.6,
+      "cobertura": 0.3736,
+      "n_sugeridas": 269,
+      "acuracia_nas_sugeridas": 0.8996
+    },
+    {
+      "limiar": 0.7,
+      "cobertura": 0.1347,
+      "n_sugeridas": 97,
+      "acuracia_nas_sugeridas": 0.9072
+    }
+  ],
+  "limiar_teste": [
+    {
+      "limiar": 0.0,
+      "cobertura": 1.0,
+      "n_sugeridas": 240,
+      "acuracia_nas_sugeridas": 0.8625
+    },
+    {
+      "limiar": 0.3,
+      "cobertura": 0.9208,
+      "n_sugeridas": 221,
+      "acuracia_nas_sugeridas": 0.905
+    },
+    {
+      "limiar": 0.4,
+      "cobertura": 0.8292,
+      "n_sugeridas": 199,
+      "acuracia_nas_sugeridas": 0.9095
+    },
+    {
+      "limiar": 0.5,
+      "cobertura": 0.6833,
+      "n_sugeridas": 164,
+      "acuracia_nas_sugeridas": 0.9024
+    },
+    {
+      "limiar": 0.6,
+      "cobertura": 0.4542,
+      "n_sugeridas": 109,
+      "acuracia_nas_sugeridas": 0.9266
+    },
+    {
+      "limiar": 0.7,
+      "cobertura": 0.2417,
+      "n_sugeridas": 58,
+      "acuracia_nas_sugeridas": 0.931
+    }
+  ],
+  "exemplos": [
+    {
+      "texto": "Som muito alto no apto XXX depois da meia-noite",
+      "categoria_sugerida": "Barulho",
+      "confianca": 0.731,
+      "segunda_opcao": "Segurança e portaria"
+    },
+    {
+      "texto": "Água pingando do teto do banheiro, acho que vem do vizinho de cima",
+      "categoria_sugerida": "Vazamento e infiltração",
+      "confianca": 0.392,
+      "segunda_opcao": "Barulho"
+    },
+    {
+      "texto": "Tem um carro parado na minha vaga desde cedo",
+      "categoria_sugerida": "Garagem e vagas",
+      "confianca": 0.551,
+      "segunda_opcao": "Manutenção e elevador"
+    },
+    {
+      "texto": "Elevador social parou entre o 2º e o 3º andar",
+      "categoria_sugerida": "Manutenção e elevador",
+      "confianca": 0.49,
+      "segunda_opcao": "Lixo e limpeza"
+    },
+    {
+      "texto": "Portão da garagem não fecha e ficou aberto de madrugada",
+      "categoria_sugerida": "Segurança e portaria",
+      "confianca": 0.541,
+      "segunda_opcao": "Manutenção e elevador"
+    },
+    {
+      "texto": "Cachorro fazendo xixi no hall do bloco X",
+      "categoria_sugerida": "Animais",
+      "confianca": 0.514,
+      "segunda_opcao": "Vazamento e infiltração"
+    },
+    {
+      "texto": "Sacos de lixo largados na escada de incêndio",
+      "categoria_sugerida": "Lixo e limpeza",
+      "confianca": 0.512,
+      "segunda_opcao": "Áreas comuns"
+    },
+    {
+      "texto": "Brinquedo do parquinho com parafuso solto",
+      "categoria_sugerida": "Áreas comuns",
+      "confianca": 0.394,
+      "segunda_opcao": "Manutenção e elevador"
+    },
+    {
+      "texto": "Elevador fazendo barulho estranho",
+      "categoria_sugerida": "Manutenção e elevador",
+      "confianca": 0.605,
+      "segunda_opcao": "Barulho"
+    },
+    {
+      "texto": "Favor verificar",
+      "categoria_sugerida": "Segurança e portaria",
+      "confianca": 0.224,
+      "segunda_opcao": "Áreas comuns"
+    }
+  ],
+  "python": "3.13.18",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.5",
+  "numpy": "2.5.3"
+}

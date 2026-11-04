@@ -1,0 +1,961 @@
+id_ocorrencia,texto,categoria,registrado_por,ruido
+1,Morador pediu para registrar,Lixo e limpeza,portaria,generico
+2,Registro da portaria: uso do espaco gourmet fora do horario,Áreas comuns,portaria,nenhum
+3,Moto parada na vaga de outro morador,Garagem e vagas,portaria,nenhum
+4,Falta de energia no escada de emergência,Manutenção e elevador,morador,nenhum
+5,Lâmpada queimada no pilotis,Segurança e portaria,morador,rotulo_trocado
+6,Arranhao em carro na garagem desde ontem a noite,Lixo e limpeza,portaria,rotulo_trocado
+7,Goteira no subsolo depois da chuva. Avisado ao zelador,Vazamento e infiltração,portaria,nenhum
+8,Moto parada na faixa de circulação,Garagem e vagas,portaria,nenhum
+9,"síndico, som alto vindo do bloco x fora do horário permitido",Barulho,morador,nenhum
+10,Lâmpada queimada no corredor do 4º andar. Favor providenciar,Manutenção e elevador,portaria,nenhum
+11,pessoa estranha circulando no bloco x. já é recorrente,Segurança e portaria,morador,nenhum
+12,"Síndico, festa com música alta no apto XXX fora do horário permitido",Barulho,morador,nenhum
+13,Infiltração no subsolo vindo do apto de cima. Já é recorrente,Barulho,portaria,rotulo_trocado
+14,Bomba d'água sem funcionar,Manutenção e elevador,morador,nenhum
+15,Registro da portaria: interfone da portaria não funciona,Segurança e portaria,portaria,nenhum
+16,"Interfone da portaria sem resposta, aguardo resposta",Segurança e portaria,morador,nenhum
+17,Vizinho fazendo som automotivo no domingo de manha.,Barulho,portaria,nenhum
+18,Morador do apto XXX informa: reserva do playground sem autorização do síndico,Áreas comuns,portaria,nenhum
+19,Morador do apto XXX informa: limpeza do corredor do 2º andar há dois dias. Favor providenciar,Lixo e limpeza,portaria,nenhum
+20,Interruptor solto da parede no corredor do 4º andar,Manutenção e elevador,morador,nenhum
+21,Falta de energia no escada de emergência,Manutenção e elevador,morador,nenhum
+22,Infiltração no hall do bloco X vindo do apto de cima,Lixo e limpeza,morador,rotulo_trocado
+23,Limpeza do corredor do 2º andar não foi feita,Lixo e limpeza,portaria,nenhum
+24,Turno da noite: carro bloqueando a saída da vaga desde ontem à noite,Garagem e vagas,portaria,nenhum
+25,Ocorrência: coleta seletiva sem contêiner,Lixo e limpeza,portaria,nenhum
+26,morador reclama de furadeira de madrugada. ninguém resolveu ainda,Vazamento e infiltração,morador,rotulo_trocado
+27,"Sindico, vazamento no corredor do 3º andar piorou hoje, agua chegando no apto XXX",Vazamento e infiltração,morador,nenhum
+28,Porteiro ausente da guarita,Segurança e portaria,morador,nenhum
+29,Bloco X - bomba d'água com barulho estranho,Manutenção e elevador,portaria,nenhum
+30,"festa no andar de cima de madrugada, já é a quarta vez",Barulho,morador,nenhum
+31,Cachorro do apto XXX latindo durante a noite,Segurança e portaria,morador,rotulo_trocado
+32,Barulho de obra no apto XXX fora do horário permitido. Morador pede retorno,Vazamento e infiltração,morador,rotulo_trocado
+33,Animal solto no elevador,Animais,morador,nenhum
+34,Água escorrendo pela parede do forro do elevador,Vazamento e infiltração,portaria,nenhum
+35,reclamação: mau cheiro vindo do pilotis,Lixo e limpeza,morador,nenhum
+36,Gato do apto XXX entrando em outras unidades. Morador pede retorno,Animais,portaria,nenhum
+37,Veículo de visitante ocupando faixa de circulação,Garagem e vagas,portaria,nenhum
+38,Ocorrência: barulho de som automotivo no apto XXX fora do horário permitido,Barulho,portaria,nenhum
+39,água escorrendo pela parede do shaft hidráulico,Vazamento e infiltração,morador,nenhum
+40,Bomba d'agua desligando sozinha,Manutenção e elevador,morador,nenhum
+41,Reclamação: porta do hall ficou aberto a noite toda,Segurança e portaria,portaria,nenhum
+42,Morador do apto XXX informa: gritaria e batidas na parede no bloco X desde as 21h,Barulho,portaria,nenhum
+43,Morador passeando com cachorro no pilotis sem guia. Solicito providencias,Animais,portaria,nenhum
+44,"Morador passeando com cachorro no hall sem guia, aguardo resposta",Animais,morador,nenhum
+45,Água escorrendo pela parede do hall do bloco X,Vazamento e infiltração,portaria,nenhum
+46,Bomba d'água com barulho estranho. Solicito providências,Manutenção e elevador,morador,nenhum
+47,"Morador usando duas vagas , aguardo resposta",Garagem e vagas,morador,nenhum
+48,"Vazamento no teto da cozinha desde ontem, água chegando no apto XXX",Vazamento e infiltração,portaria,nenhum
+49,Entulho de obra no pilotis. Ninguém resolveu ainda,Lixo e limpeza,portaria,nenhum
+50,Pombos fazendo ninho na caixa de ar-condicionado,Vazamento e infiltração,morador,rotulo_trocado
+51,Falta de energia no corredor do 4º andar,Manutenção e elevador,morador,nenhum
+52,Turno da noite: bomba d'água desligando sozinha,Manutenção e elevador,portaria,nenhum
+53,registro da portaria: veículo de visitante ocupando vaga de deficiente,Garagem e vagas,morador,nenhum
+54,Veículo de visitante ocupando rampa da garagem,Garagem e vagas,morador,nenhum
+55,Objetos pessoais deixados no playground. Morador pede retorno,Áreas comuns,morador,nenhum
+56,Interfone da portaria com chiado,Segurança e portaria,portaria,nenhum
+57,Goteira no forro do elevador depois da chuva,Vazamento e infiltração,morador,nenhum
+58,gato do apto xxx urinando no corredor,Animais,morador,nenhum
+59,Animal solto no playground,Animais,morador,nenhum
+60,Reclamação de ruído: batidas na parede no sábado à noite,Barulho,portaria,nenhum
+61,moto parada na vaga de deficiente,Garagem e vagas,morador,nenhum
+62,Goteira no registro da área de serviço piorou hoje,Segurança e portaria,morador,rotulo_trocado
+63,Sujeira no escada no fim de semana.,Lixo e limpeza,morador,nenhum
+64,Registro da portaria: água escorrendo pela parede do forro do elevador,Vazamento e infiltração,morador,nenhum
+65,Morador usando duas vagas pela terceira vez,Garagem e vagas,morador,nenhum
+66,Reserva do playground sem autorização do síndico,Áreas comuns,portaria,nenhum
+67,Vizinho fazendo batidas na parede depois das 22h. Solicito providencias,Barulho,portaria,nenhum
+68,Problema no prédio,Manutenção e elevador,portaria,generico
+69,Camera do portao sem imagem. Avisado ao zelador,Segurança e portaria,portaria,nenhum
+70,Tentativa de furto no pilotis à noite,Segurança e portaria,morador,nenhum
+71,Sujeira no elevador depois da mudança. Solicito providências,Lixo e limpeza,morador,nenhum
+72,Animal solto no corredor,Animais,portaria,nenhum
+73,Pombos fazendo ninho na caixa de ar-condicionado,Animais,portaria,nenhum
+74,Carro bloqueando a saída da vaga pela terceira vez,Garagem e vagas,portaria,nenhum
+75,Animal solto no pilotis. Morador pede retorno,Animais,portaria,nenhum
+76,Objetos pessoais deixados no academia,Áreas comuns,portaria,nenhum
+77,"arrastar móveis no andar de cima às 23h30, já é a terceira vez. Favor providenciar",Barulho,morador,nenhum
+78,Cachorro latindo durante a noite,Animais,morador,nenhum
+79,Vazamento de água no shaft hidráulico,Vazamento e infiltração,portaria,nenhum
+80,Problema resolvido?,Manutenção e elevador,morador,generico
+81,moto parada na rampa da garagem,Garagem e vagas,morador,nenhum
+82,turno da noite: pessoa estranha tentando abrir carros,Animais,morador,rotulo_trocado
+83,Bloco X - tentativa de furto circulando no bloco X,Segurança e portaria,portaria,nenhum
+84,Veículo de visitante ocupando vaga de carga e descarga,Garagem e vagas,portaria,nenhum
+85,Pessoa estranha na garagem,Segurança e portaria,portaria,nenhum
+86,Cachorro latindo o dia todo,Animais,morador,nenhum
+87,limpeza do depósito de lixo no fim de semana. solicito providências,Áreas comuns,portaria,rotulo_trocado
+88,Cachorro do apto XXX latindo durante a noite,Barulho,morador,rotulo_trocado
+89,"furadeira no andar de cima fora do horário permitido, já é a segunda vez.",Barulho,portaria,nenhum
+90,cachorro latindo sem parar desde cedo,Animais,morador,nenhum
+91,Cadeira do jardim danificado,Áreas comuns,morador,nenhum
+92,Lixeira transbordando,Lixo e limpeza,morador,nenhum
+93,"síndico, entrada de prestador de serviço sem identificação",Segurança e portaria,portaria,nenhum
+94,Saco de lixo vazando no elevador. Avisado ao zelador,Lixo e limpeza,portaria,nenhum
+95,"Carro estacionado em local proibido na garagem o fim de semana todo, aguardo resposta",Garagem e vagas,morador,nenhum
+96,Ver com o síndico,Segurança e portaria,portaria,generico
+97,Lixeira sem tampa,Lixo e limpeza,morador,nenhum
+98,Festa com música alta no apto XXX depois das 22h,Barulho,portaria,nenhum
+99,Portão dos fundos ficou aberto a noite toda,Segurança e portaria,portaria,nenhum
+100,Morador reclama de música alta depois das 22h. Já é recorrente,Barulho,morador,nenhum
+101,Pessoa estranha circulando no bloco X,Segurança e portaria,portaria,nenhum
+102,Mancha de umidade no garagem do subsolo,Vazamento e infiltração,morador,nenhum
+103,Interruptor quebrado no subsolo,Manutenção e elevador,morador,nenhum
+104,Vaga ocupada por um carro de visitante,Garagem e vagas,portaria,nenhum
+105,Ocorrência: câmera do portão sem imagem,Segurança e portaria,morador,nenhum
+106,Registro da portaria: entrada de entregador sem identificacao,Segurança e portaria,morador,nenhum
+107,Arranhão em carro na garagem de novo,Garagem e vagas,morador,nenhum
+108,Cachorro do apto XXX latindo de madrugada,Animais,portaria,nenhum
+109,Morador usando duas vagas pela terceira vez,Garagem e vagas,morador,nenhum
+110,Turno da noite: carro bloqueando a saída da vaga desde ontem à noite,Garagem e vagas,portaria,nenhum
+111,Carro estacionado na vaga do apto XXX,Garagem e vagas,morador,nenhum
+112,Vaga ocupada por entulho de obra,Garagem e vagas,morador,nenhum
+113,"Síndico, morador passeando com cachorro no playground sem guia",Animais,morador,nenhum
+114,cachorro latindo o dia todo,Animais,portaria,nenhum
+115,Carro bloqueando a saída da vaga desde ontem à noite,Garagem e vagas,morador,nenhum
+116,gato do apto xxx na janela do vizinho. ninguém resolveu ainda,Animais,morador,nenhum
+117,Reclamação: pombos fazendo ninho na caixa de ar-condicionado,Animais,morador,nenhum
+118,Câmera do elevador sem imagem,Segurança e portaria,portaria,nenhum
+119,Bomba d'agua sem funcionar,Manutenção e elevador,morador,nenhum
+120,Mau cheiro vindo do elevador,Lixo e limpeza,portaria,nenhum
+121,Problema no prédio,Segurança e portaria,portaria,generico
+122,"Síndico, lâmpada queimada no corredor do 4º andar",Manutenção e elevador,morador,nenhum
+123,barulho de conversa alta no apto xxx às 23h30,Barulho,portaria,nenhum
+124,Lâmpada queimada no pilotis. Já é recorrente,Manutenção e elevador,portaria,nenhum
+125,portão eletrônico com controle sem sinal.,Manutenção e elevador,portaria,nenhum
+126,Pedido de reparo: Mesa do salao de festas,Áreas comuns,morador,nenhum
+127,Bloco X - limpeza do corredor do 2º andar no fim de semana,Lixo e limpeza,portaria,nenhum
+128,"Turno da noite: música alta no andar de cima durante a noite toda, já é a segunda vez",Barulho,morador,nenhum
+129,Portao eletronico com controle sem sinal,Manutenção e elevador,portaria,nenhum
+130,Reserva do salão de festas fora do regimento,Áreas comuns,portaria,nenhum
+131,Porteiro dormindo no turno da noite,Manutenção e elevador,morador,rotulo_trocado
+132,"Tentativa de furto tentando abrir carros, aguardo resposta",Segurança e portaria,morador,nenhum
+133,lâmpada queimada no pilotis,Manutenção e elevador,morador,nenhum
+134,Portão do salão de festas danificado,Áreas comuns,morador,nenhum
+135,Elevador com botão quebrado,Manutenção e elevador,morador,nenhum
+136,Morador usando duas vagas desde ontem à noite,Barulho,portaria,rotulo_trocado
+137,Festa com música alta no apto XXX fora do horário permitido. Avisado ao zelador,Barulho,morador,nenhum
+138,Brinquedo do academia danificado,Áreas comuns,morador,nenhum
+139,Bloco X - mau cheiro vindo do deposito de lixo,Lixo e limpeza,morador,nenhum
+140,Carro estacionado na vaga do apto XXX desde ontem à noite,Garagem e vagas,portaria,nenhum
+141,Pedido de reparo: Rede de proteção do jardim,Áreas comuns,portaria,nenhum
+142,Reclamação: portão da garagem ficou aberto depois das 22h,Segurança e portaria,morador,nenhum
+143,Infiltracao no forro do elevador vindo do apto de cima,Vazamento e infiltração,morador,nenhum
+144,Móveis do academia sem limpeza depois do uso,Áreas comuns,morador,nenhum
+145,portão eletrônico com controle sem sinal,Manutenção e elevador,morador,nenhum
+146,Portao da garagem ficou aberto de madrugada. Avisado ao zelador,Segurança e portaria,portaria,nenhum
+147,Pedido de reparo: Mesa do academia,Áreas comuns,morador,nenhum
+148,"Síndico, animal solto no hall",Animais,portaria,nenhum
+149,Vazamento de agua no shaft hidraulico,Vazamento e infiltração,portaria,nenhum
+150,"Interfone da portaria com chiado, aguardo resposta",Segurança e portaria,morador,nenhum
+151,objetos pessoais deixados no jardim. ninguém resolveu ainda,Áreas comuns,morador,nenhum
+152,Bomba d'água com barulho estranho. Favor providenciar,Manutenção e elevador,portaria,nenhum
+153,Cachorro latindo de madrugada,Animais,portaria,nenhum
+154,Animal solto no jardim,Animais,portaria,nenhum
+155,Interfone da portaria sem resposta,Segurança e portaria,morador,nenhum
+156,Porteiro ausente da guarita,Segurança e portaria,portaria,nenhum
+157,Bomba d'agua com barulho estranho,Manutenção e elevador,morador,nenhum
+158,pessoa estranha circulando no bloco x,Segurança e portaria,morador,nenhum
+159,Interruptor dando choque no escada de emergencia,Manutenção e elevador,morador,nenhum
+160,Reclamação: barulho de obra no apto XXX às 23h30,Barulho,morador,nenhum
+161,Falta de energia no guarita,Manutenção e elevador,morador,nenhum
+162,Portão eletrônico abrindo devagar,Manutenção e elevador,morador,nenhum
+163,Interfone da portaria nao funciona,Segurança e portaria,morador,nenhum
+164,Favor verificar,Áreas comuns,portaria,generico
+165,Gato do apto XXX na janela do vizinho,Animais,portaria,nenhum
+166,Morador do apto XXX informa: porteiro ausente da guarita,Segurança e portaria,portaria,nenhum
+167,Problema resolvido?,Áreas comuns,morador,generico
+168,Barulho de obra no apto XXX depois das 22h,Barulho,portaria,nenhum
+169,"Síndico, vazamento de água no subsolo",Vazamento e infiltração,portaria,nenhum
+170,"Síndico, vazamento de água no teto da cozinha",Vazamento e infiltração,portaria,nenhum
+171,Banco quebrado no playground,Áreas comuns,morador,nenhum
+172,Cachorro latindo sem parar desde cedo,Animais,portaria,nenhum
+173,Cachorro sem coleira no playground,Animais,portaria,nenhum
+174,Carro estacionado na vaga do apto XXX hoje de manhã,Garagem e vagas,morador,nenhum
+175,Vaga ocupada por carro sem identificação,Garagem e vagas,morador,nenhum
+176,Mofo e infiltracao no subsolo,Vazamento e infiltração,morador,nenhum
+177,Sujeira no elevador não foi feita,Lixo e limpeza,portaria,nenhum
+178,Vaga ocupada por entulho de obra,Garagem e vagas,morador,nenhum
+179,Morador reclama de conversa alta desde as 21h,Barulho,portaria,nenhum
+180,Morador passeando com cachorro no playground sem guia,Animais,portaria,nenhum
+181,Infiltração no teto do banheiro vindo do apto de cima,Vazamento e infiltração,portaria,nenhum
+182,Porteiro dormindo no turno da noite,Segurança e portaria,portaria,nenhum
+183,Saco de lixo vazando no elevador,Lixo e limpeza,morador,nenhum
+184,Lâmpada queimada no guarita,Manutenção e elevador,portaria,nenhum
+185,Registro da portaria: interfone da portaria com chiado,Segurança e portaria,morador,nenhum
+186,Morador usando duas vagas hoje de manha,Garagem e vagas,morador,nenhum
+187,Elevador fazendo barulho de rangido,Barulho,morador,rotulo_trocado
+188,Uso do playground fora do horario,Áreas comuns,portaria,nenhum
+189,Cachorro latindo o dia todo. Ninguem resolveu ainda,Animais,morador,nenhum
+190,barulho de festa no apto xxx durante a noite toda,Barulho,portaria,nenhum
+191,Barulho de conversa alta no apto XXX desde as 21h,Barulho,portaria,nenhum
+192,Reclamacao: gato do apto XXX na janela do vizinho,Animais,morador,nenhum
+193,Bloco X - arranhão em carro na garagem o fim de semana todo,Garagem e vagas,morador,nenhum
+194,Uso do parquinho fora do horario,Áreas comuns,morador,nenhum
+195,arranhão em carro na garagem desde ontem à noite,Garagem e vagas,morador,nenhum
+196,Portão de pedestres ficou aberto depois das 22h,Segurança e portaria,morador,nenhum
+197,Móveis do playground em conflito com outro morador,Lixo e limpeza,morador,rotulo_trocado
+198,Reclamacao de ruido: conversa alta desde as 21h. Morador pede retorno,Barulho,morador,nenhum
+199,Som alto vindo do salao de festas as 23h30. Solicito providencias,Barulho,morador,nenhum
+200,Sujeira no pilotis há dois dias,Lixo e limpeza,morador,nenhum
+201,Reclamacao: carro estacionado na vaga do apto XXX o fim de semana todo,Áreas comuns,portaria,rotulo_trocado
+202,Som alto vindo do bloco X de madrugada,Barulho,morador,nenhum
+203,entrada de entregador sem identificação,Segurança e portaria,portaria,nenhum
+204,"Veículo de visitante ocupando vaga de carga e descarga, aguardo resposta",Garagem e vagas,portaria,nenhum
+205,Vaga ocupada por carro sem identificacao,Garagem e vagas,portaria,nenhum
+206,Portão quebrado no parquinho,Áreas comuns,portaria,nenhum
+207,reclamação: câmera do subsolo sem imagem,Segurança e portaria,portaria,nenhum
+208,Criancas sem supervisao no playground,Áreas comuns,portaria,nenhum
+209,Barulho de furadeira no apto XXX desde as 21h,Barulho,portaria,nenhum
+210,Gritaria e furadeira no playground durante a noite toda,Lixo e limpeza,morador,rotulo_trocado
+211,Veículo de visitante ocupando vaga de carga e descarga,Garagem e vagas,morador,nenhum
+212,Uso do pilotis fora do horario,Áreas comuns,morador,nenhum
+213,Carro estacionado em local proibido na garagem de novo,Garagem e vagas,morador,nenhum
+214,mofo e infiltração no forro do elevador,Vazamento e infiltração,morador,nenhum
+215,Vizinho fazendo conversa alta durante a noite toda,Barulho,portaria,nenhum
+216,Som alto vindo do apartamento vizinho depois das 22h,Barulho,morador,nenhum
+217,Morador passeando com cachorro no corredor sem guia,Animais,morador,nenhum
+218,Limpeza do pilotis ha dois dias.,Lixo e limpeza,morador,nenhum
+219,Cachorro latindo quando o dono sai,Animais,portaria,nenhum
+220,Bomba d'água com barulho estranho,Manutenção e elevador,morador,nenhum
+221,Vizinho fazendo conversa alta fora do horário permitido,Barulho,portaria,nenhum
+222,Animal solto no corredor,Animais,portaria,nenhum
+223,"Vazamento no garagem do subsolo depois da chuva, água chegando no apto XXX",Vazamento e infiltração,morador,nenhum
+224,Reclamação: carro estacionado em local proibido na garagem desde ontem à noite,Garagem e vagas,morador,nenhum
+225,Registro da portaria: cachorro do apto XXX latindo o dia todo,Barulho,morador,rotulo_trocado
+226,Elevador do bloco X desnivelado,Lixo e limpeza,portaria,rotulo_trocado
+227,Interfone da portaria sem resposta. Morador pede retorno,Animais,portaria,rotulo_trocado
+228,Bloco X - objetos pessoais deixados no playground,Áreas comuns,morador,nenhum
+229,Turno da noite: saco de lixo deixado na porta do apto XXX,Lixo e limpeza,morador,nenhum
+230,Barulho de arrastar móveis no apto XXX fora do horário permitido,Barulho,morador,nenhum
+231,reclamação de ruído: arrastar móveis de madrugada. ninguém resolveu ainda,Barulho,morador,nenhum
+232,Vizinho fazendo obra no domingo de manha,Barulho,portaria,nenhum
+233,Moveis do pilotis fora do regimento. Ja e recorrente,Áreas comuns,morador,nenhum
+234,Vaga ocupada por bicicletas,Garagem e vagas,morador,nenhum
+235,Tentativa de furto tentando abrir carros,Segurança e portaria,morador,nenhum
+236,bloco x - interfone da portaria não funciona. já é recorrente,Vazamento e infiltração,morador,rotulo_trocado
+237,Turno da noite: entrada de prestador de serviço sem identificação,Vazamento e infiltração,morador,rotulo_trocado
+238,Crianças sem supervisão no playground,Áreas comuns,portaria,nenhum
+239,Barulho de obra no apto XXX às 23h30. Já é recorrente,Barulho,portaria,nenhum
+240,Reclamação,Garagem e vagas,morador,generico
+241,turno da noite: morador usando duas vagas de novo,Garagem e vagas,morador,nenhum
+242,Registro da portaria: barulho de batidas na parede no apto XXX desde as 21h,Barulho,portaria,nenhum
+243,Festa com musica alta no apto XXX de madrugada. Avisado ao zelador,Barulho,morador,nenhum
+244,Encomenda entregue para outro apto na portaria,Segurança e portaria,portaria,nenhum
+245,Carro estacionado em local proibido na garagem hoje de manhã,Garagem e vagas,portaria,nenhum
+246,Sujeira no depósito de lixo há dois dias,Lixo e limpeza,portaria,nenhum
+247,Sujeira no elevador depois da mudanca,Lixo e limpeza,morador,nenhum
+248,Problema resolvido?,Vazamento e infiltração,morador,generico
+249,Móveis do salão de festas fora do regimento,Áreas comuns,portaria,nenhum
+250,Mesmo problema de sempre,Barulho,morador,generico
+251,Bloco X - vaga ocupada por carro sem identificacao,Garagem e vagas,portaria,nenhum
+252,Portao eletronico com controle sem sinal,Manutenção e elevador,portaria,nenhum
+253,Tentativa de furto no pilotis à noite,Segurança e portaria,portaria,nenhum
+254,Ocorrência,Garagem e vagas,morador,generico
+255,Urgente,Lixo e limpeza,morador,generico+trocado
+256,Registro da portaria: água escorrendo pela parede do forro do elevador,Garagem e vagas,portaria,rotulo_trocado
+257,Favor verificar,Manutenção e elevador,portaria,generico
+258,Vazamento de água no subsolo,Vazamento e infiltração,morador,nenhum
+259,Gato do apto XXX na janela do vizinho,Barulho,morador,rotulo_trocado
+260,Cachorro latindo quando o dono sai. Solicito providências,Animais,portaria,nenhum
+261,Lixeira transbordando,Lixo e limpeza,morador,nenhum
+262,Ocorrência: cano estourado no teto do banheiro. Favor providenciar,Vazamento e infiltração,morador,nenhum
+263,Limpeza do depósito de lixo no fim de semana,Lixo e limpeza,morador,nenhum
+264,Vaga ocupada por caixas de mudanca. Avisado ao zelador,Garagem e vagas,portaria,nenhum
+265,"elevador parado desde ontem, aguardo resposta",Manutenção e elevador,morador,nenhum
+266,Reserva do jardim deixado bagunçado,Áreas comuns,portaria,nenhum
+267,Lâmpada queimada no guarita,Manutenção e elevador,portaria,nenhum
+268,Favor verificar,Garagem e vagas,morador,generico
+269,Objetos pessoais deixados no espaço gourmet,Áreas comuns,morador,nenhum
+270,Lampada queimada no guarita,Manutenção e elevador,morador,nenhum
+271,Veículo de visitante ocupando vaga de deficiente,Garagem e vagas,morador,nenhum
+272,"Síndico, reclamação de ruído: batidas na parede de madrugada",Barulho,morador,nenhum
+273,Vazamento de água no registro da área de serviço,Vazamento e infiltração,portaria,nenhum
+274,Favor verificar,Segurança e portaria,portaria,generico
+275,Fezes de animal no elevador,Animais,morador,nenhum
+276,Fezes de animal no corredor,Animais,portaria,nenhum
+277,Brinquedo quebrado no parquinho. Morador pede retorno,Áreas comuns,morador,nenhum
+278,Mau cheiro vindo do hall do bloco X,Lixo e limpeza,morador,nenhum
+279,Porteiro dormindo no turno da noite,Garagem e vagas,portaria,rotulo_trocado
+280,Lixo deixado no elevador,Lixo e limpeza,portaria,nenhum
+281,Entrada de visitante sem identificacao. Ja e recorrente,Segurança e portaria,morador,nenhum
+282,"Lâmpada queimada no guarita, aguardo resposta",Manutenção e elevador,portaria,nenhum
+283,Morador passeando com cachorro no playground sem guia,Animais,morador,nenhum
+284,Ocorrência: tentativa de furto na garagem,Segurança e portaria,morador,nenhum
+285,Coleta seletiva sem contêiner,Lixo e limpeza,morador,nenhum
+286,Cachorro do apto XXX latindo de madrugada,Animais,morador,nenhum
+287,Crianças sem supervisão no jardim,Áreas comuns,morador,nenhum
+288,Mesmo problema de sempre,Lixo e limpeza,morador,generico
+289,Água escorrendo pela parede do teto da sala,Animais,morador,rotulo_trocado
+290,Reclamacao: carro bloqueando a saida da vaga hoje de manha,Garagem e vagas,portaria,nenhum
+291,reclamação: morador passeando com cachorro no playground sem guia,Animais,portaria,nenhum
+292,vazamento de água no teto da cozinha,Vazamento e infiltração,portaria,nenhum
+293,Registro da portaria: gritaria e batidas na parede no playground no domingo de manhã. Avisado ao zelador,Barulho,portaria,nenhum
+294,Goteira no teto da cozinha quando o vizinho usa o chuveiro,Vazamento e infiltração,portaria,nenhum
+295,Moto parada na rampa da garagem,Garagem e vagas,morador,nenhum
+296,Turno da noite: sujeira no subsolo depois da mudança,Lixo e limpeza,portaria,nenhum
+297,Reclamação do apto XXX,Garagem e vagas,morador,generico
+298,Pedido de reparo: Banco do salão de festas.,Áreas comuns,morador,nenhum
+299,Morador usando duas vagas o fim de semana todo,Garagem e vagas,portaria,nenhum
+300,Mofo e infiltração no teto do banheiro. Morador pede retorno,Vazamento e infiltração,morador,nenhum
+301,turno da noite: entrada de entregador sem identificação,Lixo e limpeza,portaria,rotulo_trocado
+302,Morador do apto XXX informa: porta do hall ficou aberto de madrugada,Segurança e portaria,morador,nenhum
+303,Objetos pessoais deixados no pilotis,Áreas comuns,portaria,nenhum
+304,"Bloco X - batidas na parede no andar de cima depois das 22h, já é a quarta vez",Barulho,morador,nenhum
+305,Mau cheiro vindo do hall do bloco X,Lixo e limpeza,portaria,nenhum
+306,Tentativa de furto tentando abrir carros.,Segurança e portaria,morador,nenhum
+307,Veiculo de visitante ocupando vaga coberta do bloco X,Garagem e vagas,morador,nenhum
+308,Cachorro latindo o dia todo,Animais,portaria,nenhum
+309,"Síndico, churrasqueira quebrado no pilotis. Solicito providências",Áreas comuns,morador,nenhum
+310,Rede de proteção quebrado no salão de festas,Áreas comuns,portaria,nenhum
+311,Mofo e infiltração no teto da cozinha,Vazamento e infiltração,morador,nenhum
+312,Mofo e infiltracao no shaft hidraulico,Vazamento e infiltração,morador,nenhum
+313,Ocorrência: mau cheiro vindo do depósito de lixo,Lixo e limpeza,portaria,nenhum
+314,Limpeza do pilotis nao foi feita,Lixo e limpeza,portaria,nenhum
+315,Interruptor quebrado no pilotis. Ninguem resolveu ainda,Lixo e limpeza,portaria,rotulo_trocado
+316,Festa com música alta no apto XXX depois das 22h,Barulho,portaria,nenhum
+317,Lampada queimada no subsolo,Manutenção e elevador,morador,nenhum
+318,Infiltracao no corredor do 3º andar vindo do apto de cima,Barulho,portaria,rotulo_trocado
+319,Carro bloqueando a saída da vaga o fim de semana todo,Garagem e vagas,morador,nenhum
+320,Falta de energia no subsolo,Manutenção e elevador,morador,nenhum
+321,Vizinho fazendo som automotivo de madrugada,Barulho,portaria,nenhum
+322,Veículo de visitante ocupando faixa de circulação. Solicito providências,Garagem e vagas,portaria,nenhum
+323,"Vazamento no forro do elevador piorou hoje, água chegando no apto XXX",Vazamento e infiltração,portaria,nenhum
+324,Arranhão em carro na garagem desde ontem à noite. Favor providenciar,Garagem e vagas,morador,nenhum
+325,Reserva do academia em conflito com outro morador. Solicito providências,Áreas comuns,portaria,nenhum
+326,"Vazamento no registro da area de servico depois da chuva, agua chegando no apto XXX",Vazamento e infiltração,portaria,nenhum
+327,Mau cheiro vindo do depósito de lixo,Lixo e limpeza,morador,nenhum
+328,Infiltracao no teto da sala vindo do apto de cima,Vazamento e infiltração,morador,nenhum
+329,Infiltração no hall do bloco X vindo do apto de cima,Vazamento e infiltração,portaria,nenhum
+330,Vizinho fazendo batidas na parede depois das 22h,Barulho,morador,nenhum
+331,Elevador do bloco X com botão quebrado. Ninguém resolveu ainda,Manutenção e elevador,portaria,nenhum
+332,Infiltração no teto da cozinha vindo do apto de cima. Já é recorrente,Vazamento e infiltração,portaria,nenhum
+333,morador usando duas vagas hoje de manhã,Garagem e vagas,portaria,nenhum
+334,Fezes de animal no corredor,Animais,morador,nenhum
+335,Mancha de umidade no shaft hidráulico,Vazamento e infiltração,portaria,nenhum
+336,Morador do apto XXX informa: elevador parou com morador dentro,Manutenção e elevador,morador,nenhum
+337,Infiltracao no garagem do subsolo vindo do apto de cima,Vazamento e infiltração,morador,nenhum
+338,Mofo e infiltração no teto da cozinha,Vazamento e infiltração,morador,nenhum
+339,barulho de arrastar móveis no apto xxx fora do horário permitido,Barulho,morador,nenhum
+340,Portão eletrônico com controle sem sinal.,Manutenção e elevador,morador,nenhum
+341,Móveis do jardim sem limpeza depois do uso,Áreas comuns,morador,nenhum
+342,Morador reclama de batidas na parede de madrugada,Barulho,portaria,nenhum
+343,Animal solto no playground,Animais,portaria,nenhum
+344,Gato do apto XXX urinando no corredor,Animais,portaria,nenhum
+345,água escorrendo pela parede do hall do bloco x,Áreas comuns,portaria,rotulo_trocado
+346,Vazamento de água no corredor do 3º andar,Vazamento e infiltração,portaria,nenhum
+347,limpeza do corredor do 2º andar há dois dias,Lixo e limpeza,morador,nenhum
+348,Cano estourado no teto do banheiro,Áreas comuns,portaria,rotulo_trocado
+349,bloco x - cano estourado no registro da área de serviço,Vazamento e infiltração,morador,nenhum
+350,"síndico, crianças sem supervisão no espaço gourmet",Áreas comuns,portaria,nenhum
+351,Limpeza do hall do bloco X ha dois dias. Favor providenciar,Lixo e limpeza,portaria,nenhum
+352,Cano estourado no registro da área de serviço. Solicito providências,Vazamento e infiltração,morador,nenhum
+353,Lâmpada queimada no subsolo,Manutenção e elevador,morador,nenhum
+354,Móveis do pilotis fora do regimento,Áreas comuns,portaria,nenhum
+355,Mofo e infiltração no hall do bloco X,Vazamento e infiltração,morador,nenhum
+356,Urgente,Barulho,portaria,generico
+357,Interfone da portaria sem resposta,Segurança e portaria,portaria,nenhum
+358,Morador reclama de som automotivo às 23h30,Barulho,portaria,nenhum
+359,Sujeira no elevador há dois dias,Lixo e limpeza,morador,nenhum
+360,Gritaria e salto alto no churrasqueira fora do horário permitido,Barulho,portaria,nenhum
+361,Pedido de reparo: Grama do academia. Avisado ao zelador,Áreas comuns,portaria,nenhum
+362,portão dos fundos ficou aberto por mais de uma hora,Segurança e portaria,morador,nenhum
+363,Entrada de visitante sem identificação,Segurança e portaria,portaria,nenhum
+364,Gritaria e karaoke no bloco X no domingo de manha,Vazamento e infiltração,morador,rotulo_trocado
+365,Limpeza do hall do bloco X não foi feita. Já é recorrente,Lixo e limpeza,morador,nenhum
+366,Lixo deixado no elevador,Lixo e limpeza,portaria,nenhum
+367,Registro da portaria: pombos fazendo ninho na caixa de ar-condicionado,Animais,morador,nenhum
+368,Elevador do bloco X parado no 3º andar. Favor providenciar,Manutenção e elevador,morador,nenhum
+369,Arranhao em carro na garagem pela terceira vez,Garagem e vagas,morador,nenhum
+370,Ocorrencia: festa com musica alta no apto XXX as 23h30,Barulho,portaria,nenhum
+371,Elevador parou com morador dentro,Manutenção e elevador,portaria,nenhum
+372,Falta de energia no guarita,Manutenção e elevador,morador,nenhum
+373,Pombos sujando a garagem,Animais,portaria,nenhum
+374,Carro estacionado na vaga do apto XXX hoje de manhã. Favor providenciar,Garagem e vagas,morador,nenhum
+375,interfone da portaria sem resposta,Áreas comuns,portaria,rotulo_trocado
+376,Cachorro do apto XXX latindo de madrugada,Animais,morador,nenhum
+377,Reserva do parquinho fora do regimento,Garagem e vagas,morador,rotulo_trocado
+378,"Objetos pessoais deixados no jardim, aguardo resposta",Áreas comuns,portaria,nenhum
+379,Reclamacao de ruido: salto alto fora do horario permitido,Barulho,morador,nenhum
+380,Pombos fazendo ninho na caixa de ar-condicionado,Animais,portaria,nenhum
+381,Turno da noite: câmera do hall sem imagem,Segurança e portaria,portaria,nenhum
+382,Pedido de reparo: Churrasqueira do pilotis,Áreas comuns,morador,nenhum
+383,Reclamação: pedido de reparo: Portão do jardim,Áreas comuns,portaria,nenhum
+384,Gritaria e festa no apartamento vizinho durante a noite toda. Solicito providências,Barulho,morador,nenhum
+385,Barulho de musica alta no apto XXX no domingo de manha,Barulho,morador,nenhum
+386,Criancas sem supervisao no academia,Áreas comuns,morador,nenhum
+387,Carro bloqueando a saída da vaga,Garagem e vagas,morador,nenhum
+388,Moto parada na rampa da garagem. Já é recorrente,Garagem e vagas,morador,nenhum
+389,Objetos pessoais deixados no academia. Solicito providências,Áreas comuns,portaria,nenhum
+390,Vaga ocupada por entulho de obra,Garagem e vagas,morador,nenhum
+391,Falta de energia no hall do bloco X,Manutenção e elevador,portaria,nenhum
+392,Veículo de visitante ocupando vaga de outro morador,Garagem e vagas,portaria,nenhum
+393,Morador do apto XXX informa: festa com música alta no apto XXX no domingo de manhã,Barulho,morador,nenhum
+394,"Vazamento no subsolo desde ontem, água chegando no apto XXX",Vazamento e infiltração,portaria,nenhum
+395,"Síndico, reserva do pilotis sem autorização do síndico",Áreas comuns,portaria,nenhum
+396,Reserva do academia em conflito com outro morador,Áreas comuns,morador,nenhum
+397,Portao dos fundos ficou aberto de madrugada,Segurança e portaria,portaria,nenhum
+398,"Vazamento no shaft hidráulico piorou hoje, água chegando no apto XXX",Vazamento e infiltração,morador,nenhum
+399,Camera do subsolo sem imagem,Segurança e portaria,morador,nenhum
+400,Bloco X - cachorro do apto XXX latindo o dia todo,Animais,portaria,nenhum
+401,Bomba d'água sem funcionar,Manutenção e elevador,morador,nenhum
+402,Interfone da portaria sem resposta,Segurança e portaria,morador,nenhum
+403,Portão de pedestres ficou aberto depois das 22h. Favor providenciar,Manutenção e elevador,morador,rotulo_trocado
+404,Portao dos fundos ficou aberto depois das 22h,Segurança e portaria,portaria,nenhum
+405,Mancha de umidade no hall do bloco X,Vazamento e infiltração,morador,nenhum
+406,Pombos fazendo ninho na caixa de ar-condicionado,Áreas comuns,morador,rotulo_trocado
+407,Cachorro sem coleira no playground,Lixo e limpeza,morador,rotulo_trocado
+408,Bomba d'água sem funcionar,Manutenção e elevador,portaria,nenhum
+409,Elevador do bloco X desnivelado,Manutenção e elevador,morador,nenhum
+410,Elevador fazendo barulho alto entre os andares. Ja e recorrente,Manutenção e elevador,morador,nenhum
+411,Mofo e infiltração no subsolo,Vazamento e infiltração,morador,nenhum
+412,Turno da noite: carro estacionado em local proibido na garagem,Garagem e vagas,morador,nenhum
+413,Lixeira sem separacao de reciclaveis,Áreas comuns,morador,rotulo_trocado
+414,Bloco X - lâmpada queimada no escada de emergência,Manutenção e elevador,portaria,nenhum
+415,Crianças sem supervisão no parquinho,Barulho,portaria,rotulo_trocado
+416,Ocorrência: reserva do espaço gourmet sem limpeza depois do uso,Animais,portaria,rotulo_trocado
+417,Som alto vindo do salão de festas depois das 22h,Barulho,portaria,nenhum
+418,Barulho de salto alto no apto XXX de madrugada,Barulho,portaria,nenhum
+419,Tentativa de furto na garagem,Segurança e portaria,portaria,nenhum
+420,Pessoa estranha no pilotis à noite,Segurança e portaria,morador,nenhum
+421,Mesa do academia danificado,Áreas comuns,morador,nenhum
+422,Gritaria e festa no playground depois das 22h. Favor providenciar,Barulho,morador,nenhum
+423,"batidas na parede no andar de cima de madrugada, já é a segunda vez",Barulho,portaria,nenhum
+424,Churrasqueira quebrado no pilotis,Áreas comuns,morador,nenhum
+425,Reserva do academia deixado bagunçado,Vazamento e infiltração,morador,rotulo_trocado
+426,Crianças sem supervisão no jardim,Áreas comuns,portaria,nenhum
+427,Reclamação de ruído: música alta depois das 22h,Barulho,morador,nenhum
+428,Morador do apto XXX informa: interfone da portaria com chiado. Favor providenciar,Segurança e portaria,morador,nenhum
+429,"Registro da portaria: música alta no andar de cima no domingo de manhã, já é a segunda vez",Manutenção e elevador,morador,rotulo_trocado
+430,Problema resolvido?,Garagem e vagas,portaria,generico
+431,lâmpada queimada no subsolo,Manutenção e elevador,morador,nenhum
+432,Elevador fazendo barulho de rangido,Manutenção e elevador,portaria,nenhum
+433,Bloco X - lâmpada queimada no corredor do 4º andar. Já é recorrente,Manutenção e elevador,portaria,nenhum
+434,Encomenda extraviada na portaria,Segurança e portaria,morador,nenhum
+435,Interfone da portaria sem resposta. Avisado ao zelador,Segurança e portaria,morador,nenhum
+436,Interfone da portaria com chiado,Segurança e portaria,morador,nenhum
+437,Favor verificar,Vazamento e infiltração,portaria,generico+trocado
+438,"salto alto no andar de cima no sábado à noite, já é a segunda vez",Barulho,portaria,nenhum
+439,objetos pessoais deixados no academia,Áreas comuns,portaria,nenhum
+440,Urgente,Segurança e portaria,morador,generico
+441,Morador do apto XXX informa: reclamacao de ruido: batidas na parede as 23h30,Segurança e portaria,morador,rotulo_trocado
+442,barulho de salto alto no apto xxx às 23h30,Barulho,portaria,nenhum
+443,Vaga ocupada por bicicletas,Garagem e vagas,morador,nenhum
+444,Goteira no hall do bloco X quando o vizinho usa o chuveiro,Vazamento e infiltração,morador,nenhum
+445,Interfone da portaria sem resposta,Segurança e portaria,portaria,nenhum
+446,Mau cheiro vindo do escada. Ninguem resolveu ainda,Lixo e limpeza,portaria,nenhum
+447,Entrada de visitante sem identificacao,Segurança e portaria,portaria,nenhum
+448,sujeira no corredor do 2º andar depois da mudança,Lixo e limpeza,portaria,nenhum
+449,barulho de conversa alta no apto xxx no sábado à noite,Barulho,portaria,nenhum
+450,Pedido de reparo: Grama do pilotis,Áreas comuns,morador,nenhum
+451,Agua escorrendo pela parede do forro do elevador,Vazamento e infiltração,portaria,nenhum
+452,Registro da portaria: uso do pilotis fora do horário,Áreas comuns,portaria,nenhum
+453,pedido de reparo: banco do espaço gourmet.,Áreas comuns,morador,nenhum
+454,Animal solto no corredor,Lixo e limpeza,portaria,rotulo_trocado
+455,Elevador fazendo barulho estranho ao subir. Ninguem resolveu ainda,Manutenção e elevador,portaria,nenhum
+456,pombos sujando a garagem,Animais,morador,nenhum
+457,Mancha de umidade no registro da área de serviço,Vazamento e infiltração,morador,nenhum
+458,Crianças sem supervisão no pilotis. Solicito providências,Áreas comuns,portaria,nenhum
+459,Lixo deixado no pilotis,Lixo e limpeza,morador,nenhum
+460,Mau cheiro vindo do elevador,Áreas comuns,portaria,rotulo_trocado
+461,"síndico, lixeira sem tampa",Lixo e limpeza,portaria,nenhum
+462,Mesa do playground danificado. Solicito providências,Áreas comuns,morador,nenhum
+463,Veículo de visitante ocupando vaga de deficiente,Garagem e vagas,portaria,nenhum
+464,Favor verificar,Segurança e portaria,portaria,generico
+465,Carro bloqueando a saída da vaga de novo,Garagem e vagas,morador,nenhum
+466,Encomenda entregue para outro apto na portaria,Manutenção e elevador,morador,rotulo_trocado
+467,barulho de obra no apto xxx fora do horário permitido,Barulho,portaria,nenhum
+468,Barulho de salto alto no apto XXX desde as 21h. Ja e recorrente,Barulho,portaria,nenhum
+469,Pedido de reparo: Mesa do academia. Favor providenciar,Áreas comuns,morador,nenhum
+470,"Síndico, carro estacionado na vaga do apto XXX o fim de semana todo",Garagem e vagas,portaria,nenhum
+471,Sujeira no deposito de lixo nao foi feita,Lixo e limpeza,portaria,nenhum
+472,Ocorrência,Lixo e limpeza,portaria,generico
+473,"Síndico, cachorro do apto XXX latindo o dia todo",Animais,morador,nenhum
+474,Interfone da portaria com chiado,Segurança e portaria,morador,nenhum
+475,Uso do academia fora do horário,Áreas comuns,portaria,nenhum
+476,"Ocorrência: vazamento no hall do bloco X quando o vizinho usa o chuveiro, água chegando no apto XXX",Segurança e portaria,morador,rotulo_trocado
+477,Mancha de umidade no teto da cozinha. Avisado ao zelador,Vazamento e infiltração,morador,nenhum
+478,Carro estacionado na vaga do apto XXX de novo,Garagem e vagas,morador,nenhum
+479,Cachorro do apto XXX latindo de madrugada,Animais,portaria,nenhum
+480,Mesmo problema de sempre,Garagem e vagas,morador,generico
+481,Coleta seletiva nao passou esta semana. Ninguem resolveu ainda,Lixo e limpeza,morador,nenhum
+482,barulho de furadeira no apto xxx no sábado à noite,Barulho,morador,nenhum
+483,veículo de visitante ocupando vaga de outro morador,Garagem e vagas,morador,nenhum
+484,Reclamacao de ruido: obra desde as 21h,Barulho,morador,nenhum
+485,Carro estacionado em local proibido na garagem de novo,Garagem e vagas,portaria,nenhum
+486,Turno da noite: vazamento de água no garagem do subsolo,Vazamento e infiltração,portaria,nenhum
+487,Fezes de animal no pilotis. Morador pede retorno,Animais,portaria,nenhum
+488,entulho de obra no pilotis,Lixo e limpeza,morador,nenhum
+489,Elevador parado desde ontem,Manutenção e elevador,morador,nenhum
+490,Lampada queimada no guarita,Manutenção e elevador,morador,nenhum
+491,Reclamação do apto XXX,Garagem e vagas,portaria,generico
+492,Móveis do espaço gourmet sem limpeza depois do uso,Áreas comuns,morador,nenhum
+493,Tentativa de furto no pilotis à noite.,Segurança e portaria,portaria,nenhum
+494,coleta seletiva sem contêiner,Lixo e limpeza,portaria,nenhum
+495,Sujeira no depósito de lixo não foi feita,Lixo e limpeza,morador,nenhum
+496,Vazamento de água no registro da área de serviço,Vazamento e infiltração,portaria,nenhum
+497,"Morador passeando com cachorro no pilotis sem guia, aguardo resposta",Animais,morador,nenhum
+498,"Síndico, pedido de reparo: Rede de proteção do playground",Áreas comuns,morador,nenhum
+499,Água escorrendo pela parede do teto do banheiro,Vazamento e infiltração,morador,nenhum
+500,barulho de karaokê no apto xxx de madrugada,Barulho,morador,nenhum
+501,Turno da noite: pombos fazendo ninho na caixa de ar-condicionado. Morador pede retorno,Animais,portaria,nenhum
+502,Porta do hall ficou aberto por mais de uma hora,Segurança e portaria,morador,nenhum
+503,Festa com música alta no apto XXX depois das 22h. Morador pede retorno,Barulho,morador,nenhum
+504,tentativa de furto no pilotis à noite,Segurança e portaria,morador,nenhum
+505,Lixeira sem separacao de reciclaveis,Lixo e limpeza,morador,nenhum
+506,carro estacionado em local proibido na garagem,Garagem e vagas,portaria,nenhum
+507,Infiltracao no forro do elevador vindo do apto de cima,Vazamento e infiltração,portaria,nenhum
+508,Registro da portaria: elevador parado no 3º andar,Manutenção e elevador,morador,nenhum
+509,Lixeira sem separacao de reciclaveis,Lixo e limpeza,morador,nenhum
+510,Reserva do parquinho sem limpeza depois do uso,Áreas comuns,morador,nenhum
+511,Gato do apto XXX entrando em outras unidades.,Animais,morador,nenhum
+512,turno da noite: cano estourado no corredor do 3º andar,Vazamento e infiltração,morador,nenhum
+513,Festa com música alta no apto XXX de madrugada,Barulho,morador,nenhum
+514,Mesmo problema de sempre,Manutenção e elevador,portaria,generico
+515,Cadeira do espaço gourmet danificado,Áreas comuns,portaria,nenhum
+516,Mancha de umidade no registro da área de serviço,Vazamento e infiltração,portaria,nenhum
+517,Morador usando duas vagas o fim de semana todo,Garagem e vagas,morador,nenhum
+518,Goteira no teto da sala piorou hoje,Vazamento e infiltração,morador,nenhum
+519,Porteiro ausente da guarita,Segurança e portaria,portaria,nenhum
+520,"Morador do apto XXX informa: música alta no andar de cima desde as 21h, já é a segunda vez. Morador pede retorno",Barulho,portaria,nenhum
+521,"Entulho de obra no subsolo, aguardo resposta",Lixo e limpeza,morador,nenhum
+522,tentativa de furto no pilotis à noite. ninguém resolveu ainda,Segurança e portaria,portaria,nenhum
+523,Turno da noite: camera do subsolo sem imagem,Segurança e portaria,portaria,nenhum
+524,Elevador do bloco X parado desde ontem,Manutenção e elevador,morador,nenhum
+525,Cano estourado no hall do bloco X. Ninguém resolveu ainda,Vazamento e infiltração,morador,nenhum
+526,Bloco X - gritaria e arrastar moveis no salao de festas desde as 21h,Barulho,morador,nenhum
+527,objetos pessoais deixados no pilotis,Áreas comuns,portaria,nenhum
+528,mau cheiro vindo do pilotis,Manutenção e elevador,morador,rotulo_trocado
+529,Reclamação: reclamação de ruído: arrastar móveis às 23h30. Favor providenciar,Barulho,morador,nenhum
+530,Sujeira no depósito de lixo no fim de semana. Solicito providências,Lixo e limpeza,portaria,nenhum
+531,Portao eletronico com controle sem sinal,Manutenção e elevador,morador,nenhum
+532,Uso do parquinho fora do horario. Favor providenciar,Áreas comuns,morador,nenhum
+533,Arranhão em carro na garagem o fim de semana todo,Lixo e limpeza,morador,rotulo_trocado
+534,"Síndico, festa com música alta no apto XXX fora do horário permitido",Barulho,morador,nenhum
+535,Carro bloqueando a saída da vaga,Garagem e vagas,portaria,nenhum
+536,Goteira no teto da cozinha depois da chuva,Vazamento e infiltração,portaria,nenhum
+537,Falta de energia no hall do bloco X,Manutenção e elevador,portaria,nenhum
+538,Sujeira no elevador depois da mudança,Lixo e limpeza,portaria,nenhum
+539,Animal solto no pilotis. Avisado ao zelador,Animais,morador,nenhum
+540,Vaga ocupada por um carro de visitante,Garagem e vagas,portaria,nenhum
+541,Crianças sem supervisão no jardim,Manutenção e elevador,portaria,rotulo_trocado
+542,portão eletrônico travado aberto,Manutenção e elevador,portaria,nenhum
+543,Veículo de visitante ocupando vaga coberta do bloco X,Garagem e vagas,morador,nenhum
+544,Carro estacionado na vaga do apto XXX o fim de semana todo. Favor providenciar,Garagem e vagas,portaria,nenhum
+545,Elevador parado desde ontem.,Manutenção e elevador,portaria,nenhum
+546,reclamação: vazamento de água no corredor do 3º andar,Vazamento e infiltração,morador,nenhum
+547,Bloco X - mancha de umidade no teto do banheiro,Barulho,morador,rotulo_trocado
+548,Sujeira no corredor do 2º andar não foi feita. Já é recorrente,Lixo e limpeza,portaria,nenhum
+549,Som alto vindo do bloco X às 23h30,Barulho,morador,nenhum
+550,Veículo de visitante ocupando faixa de circulação. Avisado ao zelador,Garagem e vagas,morador,nenhum
+551,"Sindico, elevador parado no 3º andar",Manutenção e elevador,portaria,nenhum
+552,"Vazamento no shaft hidráulico depois da chuva, água chegando no apto XXX",Vazamento e infiltração,portaria,nenhum
+553,Reserva do espaco gourmet deixado baguncado,Áreas comuns,morador,nenhum
+554,Pedido de reparo: Churrasqueira do academia. Solicito providências,Áreas comuns,portaria,nenhum
+555,Encomenda entregue para outro apto na portaria,Segurança e portaria,portaria,nenhum
+556,Morador usando duas vagas de novo. Favor providenciar,Garagem e vagas,portaria,nenhum
+557,barulho de som automotivo no apto xxx de madrugada,Manutenção e elevador,portaria,rotulo_trocado
+558,Coleta seletiva nao passou esta semana. Favor providenciar,Lixo e limpeza,morador,nenhum
+559,limpeza do elevador há dois dias. solicito providências,Lixo e limpeza,portaria,nenhum
+560,Entulho de obra no depósito de lixo,Lixo e limpeza,portaria,nenhum
+561,"Síndico, uso do parquinho fora do horário",Áreas comuns,morador,nenhum
+562,Pessoa estranha no pilotis à noite,Segurança e portaria,morador,nenhum
+563,Porta do hall ficou aberto a noite toda,Segurança e portaria,portaria,nenhum
+564,Vizinho fazendo salto alto depois das 22h,Barulho,portaria,nenhum
+565,Goteira no teto do banheiro quando o vizinho usa o chuveiro,Vazamento e infiltração,morador,nenhum
+566,Vaga ocupada por caixas de mudança,Garagem e vagas,portaria,nenhum
+567,Sujeira no hall do bloco X no fim de semana,Lixo e limpeza,portaria,nenhum
+568,entulho de obra no pilotis,Lixo e limpeza,morador,nenhum
+569,Morador pediu para registrar,Lixo e limpeza,morador,generico
+570,lixo deixado no elevador,Lixo e limpeza,morador,nenhum
+571,"Vazamento no teto da cozinha há uma semana, água chegando no apto XXX",Vazamento e infiltração,portaria,nenhum
+572,Arranhão em carro na garagem desde ontem à noite,Garagem e vagas,portaria,nenhum
+573,"Síndico, lixeira quebrada",Áreas comuns,morador,rotulo_trocado
+574,Porteiro dormindo no turno da noite,Segurança e portaria,portaria,nenhum
+575,Animal solto no corredor. Solicito providências,Áreas comuns,morador,rotulo_trocado
+576,Som alto vindo do playground no sábado à noite,Barulho,morador,nenhum
+577,"Vazamento no corredor do 3º andar piorou hoje, água chegando no apto XXX",Vazamento e infiltração,portaria,nenhum
+578,Mesmo problema de sempre,Garagem e vagas,portaria,generico
+579,Carro bloqueando a saida da vaga o fim de semana todo,Garagem e vagas,morador,nenhum
+580,Cachorro latindo durante a noite,Animais,portaria,nenhum
+581,Reclamação: elevador fazendo barulho alto entre os andares. Ninguém resolveu ainda,Manutenção e elevador,portaria,nenhum
+582,Cano estourado no forro do elevador. Solicito providências,Vazamento e infiltração,portaria,nenhum
+583,"batidas na parede no andar de cima às 23h30, já é a segunda vez",Barulho,portaria,nenhum
+584,Interfone da portaria nao funciona,Segurança e portaria,portaria,nenhum
+585,Infiltracao no teto do banheiro vindo do apto de cima,Vazamento e infiltração,portaria,nenhum
+586,Carro estacionado na vaga do apto XXX de novo. Favor providenciar,Garagem e vagas,portaria,nenhum
+587,Interruptor solto da parede no guarita,Manutenção e elevador,portaria,nenhum
+588,Bloco X - gato do apto XXX entrando em outras unidades,Animais,morador,nenhum
+589,Morador passeando com cachorro no elevador sem guia,Animais,portaria,nenhum
+590,Cachorro sem coleira no jardim,Animais,portaria,nenhum
+591,cachorro do apto xxx latindo durante a noite,Animais,morador,nenhum
+592,Porta do hall ficou aberto de madrugada,Segurança e portaria,portaria,nenhum
+593,Falta de energia no pilotis,Manutenção e elevador,morador,nenhum
+594,Gritaria e música alta no churrasqueira fora do horário permitido,Barulho,portaria,nenhum
+595,Bomba d'água sem funcionar,Segurança e portaria,portaria,rotulo_trocado
+596,Água escorrendo pela parede do registro da área de serviço,Animais,portaria,rotulo_trocado
+597,Pombos fazendo ninho na caixa de ar-condicionado,Animais,portaria,nenhum
+598,Mancha de umidade no corredor do 3º andar. Morador pede retorno,Vazamento e infiltração,morador,nenhum
+599,Som alto vindo do playground no sabado a noite,Barulho,portaria,nenhum
+600,Encomenda entregue para outro apto na portaria,Animais,portaria,rotulo_trocado
+601,Morador reclama de arrastar móveis às 23h30,Barulho,portaria,nenhum
+602,Lâmpada queimada no hall do bloco X,Manutenção e elevador,morador,nenhum
+603,Lâmpada queimada no subsolo,Lixo e limpeza,morador,rotulo_trocado
+604,Entrada de motorista de aplicativo sem identificação,Segurança e portaria,morador,nenhum
+605,Fezes de animal no playground,Animais,morador,nenhum
+606,Tentativa de furto circulando no bloco X,Segurança e portaria,portaria,nenhum
+607,"síndico, veículo de visitante ocupando rampa da garagem",Garagem e vagas,portaria,nenhum
+608,Fezes de animal no pilotis,Manutenção e elevador,portaria,rotulo_trocado
+609,Urgente,Vazamento e infiltração,morador,generico
+610,Ocorrência: vizinho fazendo obra desde as 21h. Já é recorrente,Barulho,portaria,nenhum
+611,Bloco X - entulho de obra no elevador,Lixo e limpeza,morador,nenhum
+612,Pedido de reparo: Mesa do playground,Áreas comuns,morador,nenhum
+613,Ver com o síndico,Manutenção e elevador,morador,generico
+614,Objetos pessoais deixados no espaco gourmet,Áreas comuns,portaria,nenhum
+615,Bloco X - vazamento de água no hall do bloco X,Vazamento e infiltração,morador,nenhum
+616,Barulho de arrastar móveis no apto XXX às 23h30,Barulho,morador,nenhum
+617,Elevador do bloco X parado no 3º andar,Manutenção e elevador,morador,nenhum
+618,Morador do apto XXX informa: mesa do salão de festas danificado,Áreas comuns,portaria,nenhum
+619,Morador do apto XXX informa: pedido de reparo: Grama do jardim,Áreas comuns,portaria,nenhum
+620,Falta de energia no pilotis,Manutenção e elevador,portaria,nenhum
+621,ocorrência: bomba d'água desligando sozinha,Manutenção e elevador,morador,nenhum
+622,Cachorro sem coleira no elevador,Animais,portaria,nenhum
+623,Goteira no corredor do 3º andar quando o vizinho usa o chuveiro.,Vazamento e infiltração,portaria,nenhum
+624,Portao eletronico travado aberto.,Animais,morador,rotulo_trocado
+625,Coleta seletiva sem contêiner. Solicito providências,Lixo e limpeza,portaria,nenhum
+626,Registro da portaria: interfone da portaria não funciona,Segurança e portaria,portaria,nenhum
+627,Interruptor quebrado no escada de emergencia. Solicito providencias,Manutenção e elevador,morador,nenhum
+628,Limpeza do subsolo nao foi feita,Barulho,portaria,rotulo_trocado
+629,portão de pedestres ficou aberto por mais de uma hora,Segurança e portaria,morador,nenhum
+630,Bomba d'água com barulho estranho,Manutenção e elevador,morador,nenhum
+631,Registro da portaria: vazamento de água no forro do elevador,Vazamento e infiltração,morador,nenhum
+632,Cachorro latindo quando o dono sai,Animais,morador,nenhum
+633,Mofo e infiltracao no teto da sala,Vazamento e infiltração,portaria,nenhum
+634,Cachorro do apto XXX latindo quando o dono sai.,Animais,portaria,nenhum
+635,Pombos sujando a garagem. Favor providenciar,Animais,morador,nenhum
+636,entulho de obra no escada,Lixo e limpeza,morador,nenhum
+637,Reclamação,Barulho,portaria,generico
+638,Mancha de umidade no garagem do subsolo,Vazamento e infiltração,portaria,nenhum
+639,Pombos fazendo ninho na caixa de ar-condicionado,Animais,portaria,nenhum
+640,Som alto vindo do churrasqueira fora do horário permitido,Barulho,portaria,nenhum
+641,Crianças sem supervisão no pilotis,Áreas comuns,morador,nenhum
+642,grama quebrado no pilotis,Áreas comuns,morador,nenhum
+643,Cachorro sem coleira no hall,Animais,portaria,nenhum
+644,Tentativa de furto tentando abrir carros,Segurança e portaria,portaria,nenhum
+645,Lâmpada queimada no corredor do 4º andar,Manutenção e elevador,portaria,nenhum
+646,Reclamação de ruído: karaokê fora do horário permitido,Barulho,portaria,nenhum
+647,Vizinho fazendo karaoke desde as 21h,Manutenção e elevador,morador,rotulo_trocado
+648,"Sindico, mancha de umidade no shaft hidraulico",Vazamento e infiltração,morador,nenhum
+649,Morador do apto XXX informa: objetos pessoais deixados no pilotis,Áreas comuns,morador,nenhum
+650,Elevador do bloco X desnivelado. Solicito providências,Manutenção e elevador,portaria,nenhum
+651,Reclamação,Vazamento e infiltração,morador,generico
+652,Entulho de obra no hall do bloco X,Lixo e limpeza,portaria,nenhum
+653,Reclamação: lâmpada queimada no guarita,Manutenção e elevador,morador,nenhum
+654,Registro da portaria: reclamação de ruído: furadeira às 23h30,Lixo e limpeza,morador,rotulo_trocado
+655,Limpeza do deposito de lixo depois da mudanca,Lixo e limpeza,portaria,nenhum
+656,Som alto vindo do playground durante a noite toda. Ninguém resolveu ainda,Barulho,morador,nenhum
+657,Crianças sem supervisão no salão de festas,Áreas comuns,portaria,nenhum
+658,Cachorro latindo sem parar desde cedo,Animais,portaria,nenhum
+659,arranhão em carro na garagem pela terceira vez,Manutenção e elevador,morador,rotulo_trocado
+660,Vaga ocupada por um carro de visitante.,Garagem e vagas,portaria,nenhum
+661,Cachorro sem coleira no pilotis,Animais,portaria,nenhum
+662,Pessoa estranha circulando no bloco X,Segurança e portaria,morador,nenhum
+663,Fezes de animal no hall,Animais,portaria,nenhum
+664,Cachorro latindo sem parar desde cedo,Animais,morador,nenhum
+665,cachorro sem coleira no corredor,Animais,morador,nenhum
+666,Morador do apto XXX informa: veículo de visitante ocupando vaga de deficiente,Garagem e vagas,morador,nenhum
+667,Turno da noite: morador passeando com cachorro no jardim sem guia,Animais,morador,nenhum
+668,morador usando duas vagas,Garagem e vagas,morador,nenhum
+669,Favor verificar,Áreas comuns,morador,generico
+670,"Infiltração no garagem do subsolo vindo do apto de cima, aguardo resposta",Vazamento e infiltração,morador,nenhum
+671,Coleta seletiva nao passou esta semana,Lixo e limpeza,portaria,nenhum
+672,Cachorro latindo o dia todo,Animais,morador,nenhum
+673,Turno da noite: portao eletronico travado aberto,Manutenção e elevador,morador,nenhum
+674,Interfone da portaria sem resposta. Avisado ao zelador,Segurança e portaria,portaria,nenhum
+675,Morador do apto XXX informa: lixo deixado no escada. Favor providenciar,Lixo e limpeza,portaria,nenhum
+676,Turno da noite: tentativa de furto circulando no bloco X,Segurança e portaria,morador,nenhum
+677,Mofo e infiltração no corredor do 3º andar,Vazamento e infiltração,morador,nenhum
+678,Água escorrendo pela parede do corredor do 3º andar. Favor providenciar,Vazamento e infiltração,portaria,nenhum
+679,Bloco X - coleta seletiva não passou esta semana,Lixo e limpeza,morador,nenhum
+680,Elevador com porta travando.,Manutenção e elevador,portaria,nenhum
+681,gato do apto xxx na janela do vizinho. ninguém resolveu ainda,Animais,morador,nenhum
+682,Morador do apto XXX informa: animal solto no jardim,Animais,portaria,nenhum
+683,Carro bloqueando a saída da vaga pela terceira vez,Garagem e vagas,portaria,nenhum
+684,Mesa quebrado no jardim,Vazamento e infiltração,portaria,rotulo_trocado
+685,Vaga ocupada por caixas de mudanca,Garagem e vagas,portaria,nenhum
+686,Goteira no teto da sala quando o vizinho usa o chuveiro,Vazamento e infiltração,portaria,nenhum
+687,Morador do apto XXX informa: agua escorrendo pela parede do corredor do 3º andar,Vazamento e infiltração,morador,nenhum
+688,Turno da noite: lixo deixado no elevador,Lixo e limpeza,portaria,nenhum
+689,morador passeando com cachorro no pilotis sem guia,Animais,portaria,nenhum
+690,"Vazamento no shaft hidráulico depois da chuva, água chegando no apto XXX",Vazamento e infiltração,portaria,nenhum
+691,"Ocorrência: interruptor solto da parede no escada de emergência, aguardo resposta",Manutenção e elevador,morador,nenhum
+692,Goteira no garagem do subsolo depois da chuva. Avisado ao zelador,Vazamento e infiltração,portaria,nenhum
+693,Cachorro latindo sem parar desde cedo,Animais,morador,nenhum
+694,Registro da portaria: carro bloqueando a saída da vaga desde ontem à noite. Favor providenciar,Segurança e portaria,portaria,rotulo_trocado
+695,Veículo de visitante ocupando vaga de deficiente,Garagem e vagas,portaria,nenhum
+696,Uso do playground fora do horário,Áreas comuns,morador,nenhum
+697,infiltração no teto da sala vindo do apto de cima,Animais,portaria,rotulo_trocado
+698,Goteira no corredor do 3º andar piorou hoje. Morador pede retorno,Vazamento e infiltração,morador,nenhum
+699,Reclamação: infiltração no hall do bloco X vindo do apto de cima,Vazamento e infiltração,portaria,nenhum
+700,Mesa do jardim danificado. Já é recorrente,Áreas comuns,portaria,nenhum
+701,Moto parada na rampa da garagem,Vazamento e infiltração,morador,rotulo_trocado
+702,Pedido de reparo: Mesa do playground,Áreas comuns,portaria,nenhum
+703,Entulho de obra no escada,Lixo e limpeza,portaria,nenhum
+704,Bloco X - saco de lixo vazando no elevador,Lixo e limpeza,morador,nenhum
+705,Falta de energia no pilotis,Manutenção e elevador,portaria,nenhum
+706,"Vazamento no hall do bloco X há uma semana, água chegando no apto XXX. Solicito providências",Vazamento e infiltração,portaria,nenhum
+707,Animal solto no jardim,Animais,morador,nenhum
+708,Pedido de reparo: Brinquedo do espaço gourmet,Áreas comuns,morador,nenhum
+709,Lixeira transbordando,Lixo e limpeza,morador,nenhum
+710,Lixo deixado no hall do bloco X,Lixo e limpeza,portaria,nenhum
+711,"Bomba d'água com barulho estranho, aguardo resposta",Manutenção e elevador,morador,nenhum
+712,Mancha de umidade no teto do banheiro. Ninguém resolveu ainda,Vazamento e infiltração,morador,nenhum
+713,morador do apto xxx informa: fezes de animal no hall,Animais,portaria,nenhum
+714,Bomba d'água com barulho estranho,Manutenção e elevador,morador,nenhum
+715,"Portão eletrônico com controle sem sinal, aguardo resposta",Manutenção e elevador,portaria,nenhum
+716,Ocorrência: falta de energia no subsolo,Manutenção e elevador,portaria,nenhum
+717,Falta de energia no subsolo,Manutenção e elevador,portaria,nenhum
+718,Cachorro sem coleira no pilotis,Animais,portaria,nenhum
+719,Limpeza do subsolo depois da mudanca,Lixo e limpeza,morador,nenhum
+720,Sujeira no corredor do 2º andar há dois dias,Lixo e limpeza,portaria,nenhum
+721,Churrasqueira do pilotis danificado,Áreas comuns,morador,nenhum
+722,Interruptor solto da parede no corredor do 4º andar,Garagem e vagas,morador,rotulo_trocado
+723,Registro da portaria: câmera do portão sem imagem,Segurança e portaria,morador,nenhum
+724,Carro estacionado na vaga do apto XXX o fim de semana todo,Garagem e vagas,morador,nenhum
+725,Saco de lixo vazando no elevador,Animais,morador,rotulo_trocado
+726,Uso do jardim fora do horário,Áreas comuns,morador,nenhum
+727,Câmera do subsolo sem imagem,Segurança e portaria,portaria,nenhum
+728,Som alto vindo do salão de festas às 23h30. Solicito providências,Barulho,portaria,nenhum
+729,Fezes de animal no playground,Animais,portaria,nenhum
+730,Cano estourado no subsolo,Vazamento e infiltração,portaria,nenhum
+731,Saco de lixo rasgado na escada,Lixo e limpeza,morador,nenhum
+732,fezes de animal no hall. morador pede retorno,Garagem e vagas,portaria,rotulo_trocado
+733,Ocorrência,Animais,portaria,generico
+734,Ocorrencia: criancas sem supervisao no pilotis,Áreas comuns,morador,nenhum
+735,Bomba d'água desligando sozinha,Manutenção e elevador,morador,nenhum
+736,Mau cheiro vindo do corredor do 2º andar,Lixo e limpeza,morador,nenhum
+737,"Síndico, mofo e infiltração no shaft hidráulico",Manutenção e elevador,morador,rotulo_trocado
+738,"Sindico, coleta seletiva nao passou esta semana",Lixo e limpeza,portaria,nenhum
+739,Animal solto no pilotis,Áreas comuns,morador,rotulo_trocado
+740,Morador usando duas vagas o fim de semana todo. Ninguém resolveu ainda,Garagem e vagas,portaria,nenhum
+741,Pombos sujando a garagem. Morador pede retorno,Animais,portaria,nenhum
+742,Criancas sem supervisao no pilotis,Áreas comuns,portaria,nenhum
+743,morador do apto xxx informa: bomba d'água com barulho estranho,Manutenção e elevador,portaria,nenhum
+744,Cachorro sem coleira no elevador,Animais,portaria,nenhum
+745,reclamação: morador usando duas vagas o fim de semana todo,Garagem e vagas,portaria,nenhum
+746,Veículo de visitante ocupando vaga coberta do bloco X,Garagem e vagas,morador,nenhum
+747,Coleta seletiva sem contêiner,Lixo e limpeza,morador,nenhum
+748,Problema no prédio,Animais,morador,generico
+749,Cachorro do apto XXX latindo o dia todo,Animais,portaria,nenhum
+750,Moto parada na vaga de carga e descarga. Solicito providências,Garagem e vagas,morador,nenhum
+751,morador do apto xxx informa: uso do espaço gourmet fora do horário. avisado ao zelador,Áreas comuns,portaria,nenhum
+752,Ver com o síndico,Áreas comuns,portaria,generico
+753,Bloco X - infiltração no teto do banheiro vindo do apto de cima,Vazamento e infiltração,portaria,nenhum
+754,Falta de energia no hall do bloco X,Manutenção e elevador,morador,nenhum
+755,Lixeira sem tampa. Favor providenciar,Lixo e limpeza,morador,nenhum
+756,Problema no prédio,Áreas comuns,portaria,generico
+757,Arranhão em carro na garagem hoje de manhã. Solicito providências,Garagem e vagas,morador,nenhum
+758,Porteiro liberou acesso sem interfonar,Segurança e portaria,portaria,nenhum
+759,Cachorro do apto XXX latindo durante a noite,Animais,portaria,nenhum
+760,"Lampada queimada no guarita, aguardo resposta",Manutenção e elevador,portaria,nenhum
+761,Bomba d'agua sem funcionar,Manutenção e elevador,morador,nenhum
+762,Interruptor quebrado no subsolo,Manutenção e elevador,morador,nenhum
+763,animal solto no jardim,Animais,morador,nenhum
+764,Turno da noite: sujeira no pilotis no fim de semana,Lixo e limpeza,morador,nenhum
+765,Gato do apto XXX entrando em outras unidades,Animais,portaria,nenhum
+766,Lixo deixado no subsolo,Lixo e limpeza,morador,nenhum
+767,Reclamação,Segurança e portaria,morador,generico
+768,Elevador com porta travando,Manutenção e elevador,portaria,nenhum
+769,Interfone da portaria sem resposta,Segurança e portaria,portaria,nenhum
+770,Registro da portaria: som alto vindo do bloco X durante a noite toda,Barulho,morador,nenhum
+771,Veículo de visitante ocupando rampa da garagem,Garagem e vagas,morador,nenhum
+772,Animal solto no corredor,Animais,morador,nenhum
+773,água escorrendo pela parede do garagem do subsolo,Vazamento e infiltração,morador,nenhum
+774,Câmera do portão sem imagem. Solicito providências,Segurança e portaria,portaria,nenhum
+775,Festa com música alta no apto XXX no sábado à noite,Barulho,morador,nenhum
+776,entrada de motorista de aplicativo sem identificação,Segurança e portaria,portaria,nenhum
+777,Reclamação,Vazamento e infiltração,portaria,generico
+778,fezes de animal no pilotis,Animais,portaria,nenhum
+779,Interruptor solto da parede no corredor do 4º andar,Manutenção e elevador,portaria,nenhum
+780,Interruptor solto da parede no subsolo,Manutenção e elevador,portaria,nenhum
+781,lâmpada queimada no hall do bloco x,Manutenção e elevador,morador,nenhum
+782,"Sindico, bomba d'agua com barulho estranho",Manutenção e elevador,morador,nenhum
+783,Lixeira sem separação de recicláveis,Áreas comuns,portaria,rotulo_trocado
+784,Vizinho fazendo karaokê fora do horário permitido,Barulho,morador,nenhum
+785,Turno da noite: câmera do hall sem imagem,Segurança e portaria,portaria,nenhum
+786,"Sindico, veiculo de visitante ocupando vaga de carga e descarga",Garagem e vagas,morador,nenhum
+787,Ocorrência: entulho de obra no corredor do 2º andar,Lixo e limpeza,morador,nenhum
+788,Interfone da portaria sem resposta,Segurança e portaria,morador,nenhum
+789,Cachorro latindo quando o dono sai,Barulho,morador,rotulo_trocado
+790,Pedido de reparo: Churrasqueira do espaço gourmet. Avisado ao zelador,Áreas comuns,portaria,nenhum
+791,Encomenda extraviada na portaria,Segurança e portaria,portaria,nenhum
+792,Reclamacao: interruptor dando choque no escada de emergencia,Manutenção e elevador,morador,nenhum
+793,Infiltração no teto do banheiro vindo do apto de cima,Vazamento e infiltração,morador,nenhum
+794,Reserva do salão de festas sem limpeza depois do uso,Áreas comuns,morador,nenhum
+795,Sujeira no subsolo depois da mudança,Lixo e limpeza,morador,nenhum
+796,Portao do parquinho danificado. Avisado ao zelador,Áreas comuns,portaria,nenhum
+797,Coleta seletiva sem contêiner,Lixo e limpeza,portaria,nenhum
+798,Lixeira sem separacao de reciclaveis,Lixo e limpeza,morador,nenhum
+799,Infiltração no hall do bloco X vindo do apto de cima,Vazamento e infiltração,portaria,nenhum
+800,"karaokê no andar de cima no sábado à noite, já é a terceira vez",Barulho,portaria,nenhum
+801,Ocorrência,Lixo e limpeza,morador,generico
+802,Pombos sujando a garagem. Morador pede retorno,Animais,portaria,nenhum
+803,Elevador do bloco X com botão quebrado,Manutenção e elevador,portaria,nenhum
+804,morador passeando com cachorro no jardim sem guia,Animais,morador,nenhum
+805,Favor verificar,Lixo e limpeza,morador,generico
+806,Favor verificar,Segurança e portaria,morador,generico
+807,Turno da noite: limpeza do hall do bloco X não foi feita,Lixo e limpeza,portaria,nenhum
+808,cachorro sem coleira no corredor. já é recorrente,Animais,morador,nenhum
+809,Urgente,Barulho,morador,generico
+810,Registro da portaria: saco de lixo rasgado na escada,Lixo e limpeza,portaria,nenhum
+811,Lixeira sem separacao de reciclaveis,Segurança e portaria,morador,rotulo_trocado
+812,porteiro liberou acesso sem interfonar,Segurança e portaria,morador,nenhum
+813,Uso do espaço gourmet fora do horário. Ninguém resolveu ainda,Áreas comuns,morador,nenhum
+814,Bloco X - entrada de prestador de serviço sem identificação,Segurança e portaria,portaria,nenhum
+815,Festa com música alta no apto XXX no sábado à noite. Ninguém resolveu ainda,Barulho,morador,nenhum
+816,"Barulho de música alta no apto XXX no sábado à noite, aguardo resposta",Barulho,portaria,nenhum
+817,Ocorrência,Lixo e limpeza,portaria,generico
+818,"Vazamento no forro do elevador piorou hoje, água chegando no apto XXX",Vazamento e infiltração,portaria,nenhum
+819,Mofo e infiltração no forro do elevador,Vazamento e infiltração,portaria,nenhum
+820,"batidas na parede no andar de cima desde as 21h, já é a segunda vez",Barulho,morador,nenhum
+821,Bomba d'água sem funcionar. Avisado ao zelador,Manutenção e elevador,morador,nenhum
+822,Bloco X - vazamento de água no teto da cozinha,Vazamento e infiltração,portaria,nenhum
+823,Câmera do hall sem imagem,Áreas comuns,morador,rotulo_trocado
+824,Limpeza do subsolo há dois dias,Lixo e limpeza,morador,nenhum
+825,Churrasqueira do jardim danificado,Áreas comuns,morador,nenhum
+826,Carro estacionado na vaga do apto XXX hoje de manhã,Manutenção e elevador,morador,rotulo_trocado
+827,Morador do apto XXX informa: objetos pessoais deixados no jardim,Áreas comuns,morador,nenhum
+828,Gato do apto XXX na janela do vizinho,Animais,morador,nenhum
+829,Uso do pilotis fora do horário,Manutenção e elevador,portaria,rotulo_trocado
+830,Tentativa de furto na garagem,Segurança e portaria,portaria,nenhum
+831,Porteiro ausente da guarita,Segurança e portaria,portaria,nenhum
+832,"Vazamento no teto do banheiro há uma semana, água chegando no apto XXX. Favor providenciar",Vazamento e infiltração,portaria,nenhum
+833,Turno da noite: gritaria e obra no bloco X fora do horário permitido,Barulho,morador,nenhum
+834,Grama quebrado no espaco gourmet,Áreas comuns,morador,nenhum
+835,Turno da noite: pombos sujando a garagem,Animais,portaria,nenhum
+836,Cano estourado no corredor do 3º andar,Segurança e portaria,morador,rotulo_trocado
+837,"Sindico, falta de energia no corredor do 4º andar",Manutenção e elevador,portaria,nenhum
+838,Entrada de prestador de servico sem identificacao. Morador pede retorno,Segurança e portaria,portaria,nenhum
+839,Sujeira no elevador depois da mudanca,Lixo e limpeza,portaria,nenhum
+840,Registro da portaria: reclamação de ruído: karaokê depois das 22h,Barulho,morador,nenhum
+841,"Síndico, saco de lixo deixado na porta do apto XXX. Ninguém resolveu ainda",Lixo e limpeza,portaria,nenhum
+842,Gritaria e karaokê no apto XXX no domingo de manhã,Barulho,morador,nenhum
+843,Goteira no subsolo depois da chuva,Vazamento e infiltração,morador,nenhum
+844,Ocorrencia: vizinho fazendo festa desde as 21h,Barulho,morador,nenhum
+845,Pessoa estranha circulando no bloco X,Segurança e portaria,portaria,nenhum
+846,"Síndico, reserva do salão de festas deixado bagunçado",Áreas comuns,morador,nenhum
+847,Morador do apto XXX informa: mancha de umidade no shaft hidráulico,Vazamento e infiltração,morador,nenhum
+848,Limpeza do pilotis não foi feita. Favor providenciar,Barulho,portaria,rotulo_trocado
+849,Mofo e infiltração no corredor do 3º andar,Manutenção e elevador,morador,rotulo_trocado
+850,Entulho de obra no escada,Lixo e limpeza,morador,nenhum
+851,Ocorrência: festa com música alta no apto XXX desde as 21h,Barulho,morador,nenhum
+852,Morador usando duas vagas desde ontem à noite. Já é recorrente,Garagem e vagas,morador,nenhum
+853,Lixo deixado no subsolo,Lixo e limpeza,portaria,nenhum
+854,Ver com o síndico,Animais,portaria,generico
+855,Registro da portaria: mau cheiro vindo do subsolo,Lixo e limpeza,morador,nenhum
+856,Carro estacionado na vaga do apto XXX,Garagem e vagas,morador,nenhum
+857,Ocorrencia: cachorro latindo de madrugada,Animais,morador,nenhum
+858,Carro bloqueando a saída da vaga hoje de manhã,Garagem e vagas,portaria,nenhum
+859,Coleta seletiva sem contêiner,Lixo e limpeza,morador,nenhum
+860,Morador pediu para registrar,Áreas comuns,morador,generico
+861,Móveis do parquinho sem autorização do síndico,Áreas comuns,morador,nenhum
+862,Portao eletronico abrindo devagar. Ninguem resolveu ainda,Manutenção e elevador,portaria,nenhum
+863,Sujeira no elevador no fim de semana,Lixo e limpeza,portaria,nenhum
+864,Ver com o síndico,Manutenção e elevador,portaria,generico
+865,Veículo de visitante ocupando faixa de circulação,Garagem e vagas,morador,nenhum
+866,Mofo e infiltração no subsolo,Vazamento e infiltração,portaria,nenhum
+867,Agua escorrendo pela parede do forro do elevador,Vazamento e infiltração,portaria,nenhum
+868,Câmera do elevador sem imagem,Segurança e portaria,portaria,nenhum
+869,Lixo deixado no deposito de lixo,Lixo e limpeza,portaria,nenhum
+870,Bloco X - móveis do academia sem autorização do síndico,Áreas comuns,morador,nenhum
+871,Ocorrência: pombos fazendo ninho na caixa de ar-condicionado,Animais,morador,nenhum
+872,Grama do playground danificado,Áreas comuns,morador,nenhum
+873,Ocorrência: entulho de obra no hall do bloco X. Já é recorrente,Animais,morador,rotulo_trocado
+874,Saco de lixo deixado na porta do apto XXX,Lixo e limpeza,morador,nenhum
+875,"salto alto no andar de cima desde as 21h, já é a quarta vez",Barulho,morador,nenhum
+876,Porteiro ausente da guarita,Segurança e portaria,portaria,nenhum
+877,Pedido de reparo: Banco do academia,Áreas comuns,portaria,nenhum
+878,Vizinho fazendo furadeira no domingo de manhã,Barulho,portaria,nenhum
+879,Elevador do bloco X parado no 3º andar,Manutenção e elevador,portaria,nenhum
+880,Elevador fazendo barulho alto entre os andares. Morador pede retorno,Áreas comuns,morador,rotulo_trocado
+881,Interfone da portaria não funciona,Segurança e portaria,morador,nenhum
+882,"som automotivo no andar de cima durante a noite toda, já é a segunda vez",Barulho,morador,nenhum
+883,Mesmo problema de sempre,Vazamento e infiltração,morador,generico
+884,Ver com o síndico,Barulho,morador,generico
+885,Mau cheiro vindo do hall do bloco X,Lixo e limpeza,portaria,nenhum
+886,Encomenda aberta na portaria. Favor providenciar,Segurança e portaria,morador,nenhum
+887,Móveis do parquinho fora do regimento,Áreas comuns,portaria,nenhum
+888,Pedido de reparo: Banco do jardim,Áreas comuns,morador,nenhum
+889,Crianças sem supervisão no espaço gourmet. Solicito providências,Áreas comuns,morador,nenhum
+890,Vizinho fazendo salto alto desde as 21h,Barulho,morador,nenhum
+891,Carro estacionado em local proibido na garagem o fim de semana todo. Morador pede retorno,Garagem e vagas,morador,nenhum
+892,Pessoa estranha tentando abrir carros,Vazamento e infiltração,portaria,rotulo_trocado
+893,Morador usando duas vagas pela terceira vez,Garagem e vagas,portaria,nenhum
+894,Lixeira sem separação de recicláveis,Lixo e limpeza,morador,nenhum
+895,Carro bloqueando a saida da vaga pela terceira vez,Garagem e vagas,portaria,nenhum
+896,vizinho fazendo festa durante a noite toda,Barulho,portaria,nenhum
+897,Veículo de visitante ocupando vaga de outro morador,Garagem e vagas,morador,nenhum
+898,Morador passeando com cachorro no corredor sem guia,Animais,morador,nenhum
+899,Crianças sem supervisão no pilotis,Áreas comuns,portaria,nenhum
+900,Carro estacionado na vaga do apto XXX pela terceira vez. Já é recorrente,Garagem e vagas,morador,nenhum
+901,"Vazamento no subsolo piorou hoje, agua chegando no apto XXX",Vazamento e infiltração,morador,nenhum
+902,Problema no prédio,Manutenção e elevador,portaria,generico
+903,Urgente,Lixo e limpeza,morador,generico+trocado
+904,Pombos fazendo ninho na caixa de ar-condicionado,Manutenção e elevador,morador,rotulo_trocado
+905,Registro da portaria: saco de lixo rasgado na escada,Lixo e limpeza,morador,nenhum
+906,Portão de pedestres ficou aberto por mais de uma hora,Segurança e portaria,morador,nenhum
+907,"Síndico, elevador do bloco X desnivelado",Manutenção e elevador,morador,nenhum
+908,"Câmera do portão sem imagem, aguardo resposta",Segurança e portaria,portaria,nenhum
+909,Bloco X - entulho de obra no pilotis,Lixo e limpeza,portaria,nenhum
+910,Carro estacionado em local proibido na garagem desde ontem a noite,Garagem e vagas,portaria,nenhum
+911,Interfone da portaria com chiado,Barulho,morador,rotulo_trocado
+912,Falta de energia no corredor do 4º andar,Segurança e portaria,morador,rotulo_trocado
+913,Tentativa de furto tentando abrir carros,Segurança e portaria,morador,nenhum
+914,Cachorro do apto XXX latindo durante a noite,Animais,portaria,nenhum
+915,Vazamento de agua no hall do bloco X,Vazamento e infiltração,portaria,nenhum
+916,entulho de obra no subsolo,Lixo e limpeza,portaria,nenhum
+917,Cachorro do apto XXX latindo durante a noite,Animais,morador,nenhum
+918,Bloco X - uso do parquinho fora do horário,Manutenção e elevador,morador,rotulo_trocado
+919,"Sindico, cachorro latindo durante a noite. Avisado ao zelador",Animais,morador,nenhum
+920,Interfone da portaria com chiado. Morador pede retorno,Segurança e portaria,morador,nenhum
+921,Vizinho fazendo festa às 23h30,Barulho,portaria,nenhum
+922,Ocorrencia: uso do espaco gourmet fora do horario,Áreas comuns,morador,nenhum
+923,Interfone da portaria com chiado,Segurança e portaria,portaria,nenhum
+924,Elevador do bloco X parado no 3º andar,Manutenção e elevador,portaria,nenhum
+925,Sujeira no elevador depois da mudança,Lixo e limpeza,morador,nenhum
+926,Morador usando duas vagas desde ontem a noite,Garagem e vagas,portaria,nenhum
+927,Vizinho fazendo música alta depois das 22h,Barulho,morador,nenhum
+928,Carro estacionado em local proibido na garagem o fim de semana todo,Garagem e vagas,morador,nenhum
+929,Objetos pessoais deixados no parquinho,Áreas comuns,morador,nenhum
+930,Reclamação: mancha de umidade no teto da cozinha,Vazamento e infiltração,portaria,nenhum
+931,Moto parada na vaga de carga e descarga,Garagem e vagas,portaria,nenhum
+932,Mofo e infiltracao no shaft hidraulico,Vazamento e infiltração,morador,nenhum
+933,Bloco X - objetos pessoais deixados no salão de festas,Áreas comuns,morador,nenhum
+934,Reclamação,Vazamento e infiltração,portaria,generico+trocado
+935,Uso do espaco gourmet fora do horario,Áreas comuns,morador,nenhum
+936,"Síndico, porteiro liberou acesso sem interfonar",Segurança e portaria,morador,nenhum
+937,Carro estacionado na vaga do apto XXX de novo,Garagem e vagas,morador,nenhum
+938,Saco de lixo rasgado na escada,Lixo e limpeza,morador,nenhum
+939,Carro estacionado na vaga do apto XXX desde ontem a noite,Garagem e vagas,morador,nenhum
+940,Gato do apto XXX urinando no corredor,Animais,portaria,nenhum
+941,Ocorrência: mofo e infiltração no hall do bloco X.,Vazamento e infiltração,morador,nenhum
+942,cachorro sem coleira no playground,Animais,portaria,nenhum
+943,Portao eletronico abrindo devagar,Manutenção e elevador,morador,nenhum
+944,Som alto vindo do churrasqueira durante a noite toda,Barulho,portaria,nenhum
+945,Reserva do playground sem limpeza depois do uso,Áreas comuns,portaria,nenhum
+946,Morador reclama de furadeira fora do horário permitido,Barulho,morador,nenhum
+947,Crianças sem supervisão no academia,Lixo e limpeza,morador,rotulo_trocado
+948,Carro estacionado em local proibido na garagem,Garagem e vagas,portaria,nenhum
+949,Infiltração no hall do bloco X vindo do apto de cima. Avisado ao zelador,Vazamento e infiltração,portaria,nenhum
+950,Objetos pessoais deixados no parquinho,Áreas comuns,portaria,nenhum
+951,cano estourado no shaft hidráulico. solicito providências,Segurança e portaria,morador,rotulo_trocado
+952,Cachorro sem coleira no elevador,Animais,portaria,nenhum
+953,Problema no prédio,Barulho,morador,generico
+954,Cachorro do apto XXX latindo sem parar desde cedo,Animais,morador,nenhum
+955,Som alto vindo do apto XXX durante a noite toda,Barulho,morador,nenhum
+956,Festa com música alta no apto XXX no domingo de manhã,Barulho,morador,nenhum
+957,Carro bloqueando a saída da vaga hoje de manhã,Garagem e vagas,portaria,nenhum
+958,Bomba d'água sem funcionar,Manutenção e elevador,portaria,nenhum
+959,Banco do pilotis danificado,Áreas comuns,portaria,nenhum
+960,"som automotivo no andar de cima durante a noite toda, já é a quarta vez",Barulho,portaria,nenhum
